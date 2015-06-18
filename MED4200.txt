@@ -1,0 +1,2151 @@
+                         MED4200 Paper 2 2014                                                                           Page   1                                                                                                                                                         
+
+Data file= S:\MNHS-MBBS\Assessment-Unit\Assessment 2014\MED4-14\MED4200\EOY Paper\PAPER 2\Data\Analysis\MED4200 Paper 2 2014.csv                                                                                                                                           
+
+Run parameters:
+   First Item Number=    1
+   Number of Items  =  100
+   Number of Choices=   26
+   Hi/Lo Percentage =  27.00%
+   Difficulty Plots =    T
+   Translation Table= ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+
+Data will be read in 'free format' where commas or blanks separate successive values.
+
+                                                                 KEY
+
+                                                 E    C    D    I    A    C    B    E    B    A
+
+                                                 F    L    G    F    A    E    B    H    D    F
+
+                                                 B    C    A    D    E    F    C    E    A    B
+
+                                                 D    G    D    B    D    A    F    B    C    B
+
+                                                 C    F    E    H    G    G    I    B    F    H
+
+                                                 D    A    B    F    G    B    C    A    J    I
+
+                                                 B    C    A    E    H    D    E    F    H    G
+
+                                                 F    J    L    E    G    C    I    D    H    C
+
+                                                 H    I    J    B    C    J    H    B    D    E
+
+                                                 F    H    I    I    D    E    F    C    E    G
+*** FREQUENCY DISTRIBUTION AND HISTOGRAM OF SUM OF CORRECT RESPONSES ***                                               Page   2
+
+
+
+
+                                           SCORE    FREQ     Z-NORML      %-ILE       CUM-%
+
+                                             55       1       -3.096       0.10        0.20
+                                             56       0       -2.884       0.20        0.20
+                                             57       0       -2.884       0.20        0.20
+                                             58       1       -2.754       0.29        0.39
+                                             59       0       -2.658       0.39        0.39
+                                             60       1       -2.582       0.49        0.59
+                                             61       2       -2.416       0.79        0.98
+                                             62       0       -2.333       0.98        0.98
+                                             63       1       -2.298       1.08        1.18
+                                             64       1       -2.234       1.28        1.38
+                                             65       3       -2.128       1.67        1.96
+                                             66       3       -2.003       2.26        2.55
+                                             67       6       -1.861       3.14        3.73
+                                             68       4       -1.737       4.13        4.52
+                                             69       4       -1.654       4.91        5.30
+                                             70       5       -1.572       5.80        6.29
+                                             71      10       -1.456       7.27        8.25
+                                             72      10       -1.327       9.23       10.22
+                                             73      16       -1.186      11.79       13.36
+                                             74      11       -1.061      14.44       15.52
+                                             75      20       -0.935      17.49       19.45
+                                             76      16       -0.805      21.02       22.59
+                                             77      26       -0.670      25.15       27.70
+                                             78      23       -0.525      29.96       32.22
+                                             79      34       -0.370      35.56       38.90
+                                             80      36       -0.190      42.44       45.97
+                                             81      30       -0.027      48.92       51.87
+                                             82      43        0.153      56.09       60.31
+                                             83      26        0.328      62.87       65.42
+                                             84      49        0.531      70.24       75.05
+                                             85      25        0.755      77.50       79.96
+                                             86      24        0.927      82.32       84.68
+                                             87      21        1.114      86.74       88.80
+                                             88      18        1.315      90.57       92.34
+                                             89      11        1.508      93.42       94.50
+                                             90      11        1.704      95.58       96.66
+                                             91       9        1.968      97.54       98.43
+                                             92       4        2.264      98.82       99.21
+                                             93       2        2.519      99.41       99.61
+                                             94       2        2.884      99.80      100.00
+
+                               The cutting points used to divide the class into HIGH, MIDDLE and LOW groups
+                               for the item statistics presented below are:    77.5 and   84.5
+                                                HISTOGRAM   1                                                          Page   3
+
+FREQUENCY    1    1    1    2    2    6   10    9   20   27   36   49   70   73   75   49   39   22   13    4
+  -------------------------------------------------------------------------------------------------------------------
+Each * equals    2 points
+
+   74                                                                              *                         
+   72                                                                         *    *                         
+   70                                                                    *    *    *                         
+   68                                                                    *    *    *                         
+   66                                                                    *    *    *                         
+   64                                                                    *    *    *                         
+   62                                                                    *    *    *                         
+   60                                                                    *    *    *                         
+   58                                                                    *    *    *                         
+   56                                                                    *    *    *                         
+   54                                                                    *    *    *                         
+   52                                                                    *    *    *                         
+   50                                                                    *    *    *                         
+   48                                                               *    *    *    *    *                    
+   46                                                               *    *    *    *    *                    
+   44                                                               *    *    *    *    *                    
+   42                                                               *    *    *    *    *                    
+   40                                                               *    *    *    *    *                    
+   38                                                               *    *    *    *    *    *               
+   36                                                          *    *    *    *    *    *    *               
+   34                                                          *    *    *    *    *    *    *               
+   32                                                          *    *    *    *    *    *    *               
+   30                                                          *    *    *    *    *    *    *               
+   28                                                          *    *    *    *    *    *    *               
+   26                                                     *    *    *    *    *    *    *    *               
+   24                                                     *    *    *    *    *    *    *    *               
+   22                                                     *    *    *    *    *    *    *    *    *          
+   20                                                *    *    *    *    *    *    *    *    *    *          
+   18                                                *    *    *    *    *    *    *    *    *    *          
+   16                                                *    *    *    *    *    *    *    *    *    *          
+   14                                                *    *    *    *    *    *    *    *    *    *          
+   12                                                *    *    *    *    *    *    *    *    *    *    *     
+   10                                      *         *    *    *    *    *    *    *    *    *    *    *     
+    8                                      *    *    *    *    *    *    *    *    *    *    *    *    *     
+    6                                 *    *    *    *    *    *    *    *    *    *    *    *    *    *     
+    4                                 *    *    *    *    *    *    *    *    *    *    *    *    *    *    *
+    2                       *    *    *    *    *    *    *    *    *    *    *    *    *    *    *    *    *
+  -------------------------------------------------------------------------------------------------------------------
+
+CLASS
+INTERVAL    56   58   60   62   64   66   68   70   72   74   76   78   80   82   84   86   88   90   92   94
+                                                                                                                       Page   4
+
+
+                  ****TEST STATISTICS****
+
+               NUMBER OF EXAMINEES       509
+
+               TOTAL SCORE:
+                              MEAN     80.48
+                          VARIANCE     38.34
+                STANDARD DEVIATION      6.19
+                 KR-20 RELIABILITY    0.7498
+               S.E. OF MEASUREMENT    3.0974
+
+
+
+   An overview of item analysis statistics appears in
+      Osterlind, Steven J.   Constructing Test Items. 2nd ed.
+      Boston: Kluwer Academic Publishers, 1998.
+
+G_L_O_S_S_A_R_Y
+
+DIF:   DIFFICULTY - the proportion of examinees answering the item correctly
+RPB:   Point-biserial correlation between item and total test score
+CRPB:  Corrected RPB - RPB between item and total score not including the present item
+CON:   Confidence limits on CRPB
+RBIS:  Biserial correlation between item and total test score
+CRBIS: Corrected RBIS
+IRI:   Item reliability index - RPB times square root of DIF times one minus DIF
+N:     Number of examinees in group
+INV:   Number of examinees not providing a valid response to this item
+NF:    Number of examinees not finishing the test from this item onwards
+OMIT:  Number of examinees omitting this item
+*:     indicates the correct answer (keyed response)
+HIGH:  Approximately  27.0% of the total group scoring highest on the total test
+LOW:   Same proportion as 'HIGH' having lowest scores
+
+TEST SCORE MEAN %:      Mean % on the total test for the individuals giving the indicated response to this item
+DISCRIMINATING POWER:   The difference between the proportions of the HIGH and LOW groups giving this response
+STANDARD ERROR OF D.P.: Standard error of discriminating power
+
+Following the numerical report of the item analysis, plots are provided which illustrate the relationship
+between achievement or ability as measured by the total test and success on a given item.
+These plots are only provided if there is a sufficient number of cases.
+                                                                                                                       Page   5
+ITEM   1: DIF=0.094, RPB=  0.073, CRPB=  0.025 (95% CON= -0.062, 0.112)
+                     RBIS= 0.126, CRBIS= 0.044, IRI=0.021
+    GROUP   N   INV   NF  OMIT     A       B       C       E*      G       H 
+    TOTAL  509    0    0    0    0.00    0.06    0.04    0.09    0.00    0.80
+     HIGH  127    0              0.01    0.08    0.01    0.11    0.00    0.80
+     MID   241    0              0.00    0.06    0.05    0.09    0.00    0.79
+     LOW   141    0              0.00    0.06    0.05    0.09    0.00    0.81
+    TEST SCORE MEAN %:             85      81      78      82      84      80
+    DISCRIMINATING POWER         0.01    0.02   -0.04    0.03    0.00   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.03    0.02    0.04    0.00    0.05
+
+
+ITEM   2: DIF=0.536, RPB=  0.242, CRPB=  0.161 (95% CON=  0.075, 0.244)
+                     RBIS= 0.303, CRBIS= 0.202, IRI=0.120
+    GROUP   N   INV   NF  OMIT     A       B       C*      E       F       G       H 
+    TOTAL  509    0    0    0    0.01    0.07    0.54    0.18    0.00    0.13    0.07
+     HIGH  127    0              0.00    0.00    0.72    0.10    0.01    0.11    0.06
+     MID   241    0              0.00    0.08    0.52    0.22    0.00    0.12    0.06
+     LOW   141    0              0.02    0.13    0.40    0.18    0.00    0.18    0.09
+    TEST SCORE MEAN %:             74      77      82      80      83      79      78
+    DISCRIMINATING POWER        -0.02   -0.13    0.33   -0.08    0.01   -0.07   -0.04
+    STANDARD ERROR OF D.P.       0.01    0.03    0.06    0.04    0.01    0.04    0.03
+
+
+ITEM   3: DIF=0.972, RPB=  0.172, CRPB=  0.146 (95% CON=  0.060, 0.230)
+                     RBIS= 0.445, CRBIS= 0.377, IRI=0.028
+    GROUP   N   INV   NF  OMIT     B       D*      F       O 
+    TOTAL  509    0    0    0    0.01    0.97    0.02    0.00
+     HIGH  127    0              0.00    1.00    0.00    0.00
+     MID   241    0              0.01    0.98    0.01    0.00
+     LOW   141    0              0.01    0.94    0.05    0.00
+    TEST SCORE MEAN %:             77      81      73      82
+    DISCRIMINATING POWER        -0.01    0.06   -0.05    0.00
+    STANDARD ERROR OF D.P.       0.01    0.02    0.02    0.00
+
+
+ITEM   4: DIF=0.998, RPB= -0.054, CRPB= -0.061 (95% CON= -0.147, 0.026)
+                     RBIS=-0.383, CRBIS=-0.434, IRI=-.002
+    GROUP   N   INV   NF  OMIT     B       I*
+    TOTAL  509    0    0    0    0.00    1.00
+     HIGH  127    0              0.01    0.99
+     MID   241    0              0.00    1.00
+     LOW   141    0              0.00    1.00
+    TEST SCORE MEAN %:             88      80
+    DISCRIMINATING POWER         0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01
+
+
+ITEM   5: DIF=0.892, RPB=  0.290, CRPB=  0.240 (95% CON=  0.156, 0.320)
+                     RBIS= 0.485, CRBIS= 0.401, IRI=0.090
+    GROUP   N   INV   NF  OMIT     A*      C       D       F       J       K 
+    TOTAL  509    0    0    0    0.89    0.00    0.00    0.00    0.10    0.00
+     HIGH  127    0              0.98    0.00    0.00    0.00    0.02    0.00
+     MID   241    0              0.92    0.00    0.00    0.00    0.08    0.00
+     LOW   141    0              0.77    0.01    0.01    0.01    0.19    0.01
+    TEST SCORE MEAN %:             81      71      72      74      76      77
+    DISCRIMINATING POWER         0.21   -0.01   -0.01   -0.01   -0.17   -0.01
+    STANDARD ERROR OF D.P.       0.04    0.01    0.01    0.01    0.04    0.01
+                                                                                                                       Page   6
+ITEM   6: DIF=0.917, RPB=  0.351, CRPB=  0.306 (95% CON=  0.225, 0.383)
+                     RBIS= 0.635, CRBIS= 0.554, IRI=0.097
+    GROUP   N   INV   NF  OMIT     A       C*      D       E       F       J 
+    TOTAL  509    0    0    0    0.02    0.92    0.00    0.00    0.00    0.06
+     HIGH  127    0              0.00    1.00    0.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.95    0.00    0.00    0.00    0.04
+     LOW   141    0              0.06    0.78    0.00    0.01    0.01    0.13
+    TEST SCORE MEAN %:             69      81      80      76      55      75
+    DISCRIMINATING POWER        -0.06    0.22    0.00   -0.01   -0.01   -0.13
+    STANDARD ERROR OF D.P.       0.02    0.04    0.00    0.01    0.01    0.03
+
+
+ITEM   7: DIF=0.947, RPB=  0.368, CRPB=  0.332 (95% CON=  0.252, 0.407)
+                     RBIS= 0.764, CRBIS= 0.689, IRI=0.082
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       F       J 
+    TOTAL  509    0    0    0    0.01    0.95    0.01    0.00    0.01    0.01    0.01
+     HIGH  127    0              0.00    1.00    0.00    0.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.97    0.00    0.00    0.00    0.01    0.01
+     LOW   141    0              0.04    0.86    0.04    0.01    0.03    0.02    0.01
+    TEST SCORE MEAN %:             71      81      66      77      71      73      74
+    DISCRIMINATING POWER        -0.04    0.14   -0.04   -0.01   -0.03   -0.02   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.03    0.02    0.01    0.01    0.01    0.01
+
+
+ITEM   8: DIF=0.969, RPB=  0.185, CRPB=  0.157 (95% CON=  0.071, 0.240)
+                     RBIS= 0.457, CRBIS= 0.387, IRI=0.032
+    GROUP   N   INV   NF  OMIT     B       C       D       E*      F 
+    TOTAL  509    0    0    0    0.00    0.02    0.00    0.97    0.00
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.01    0.00    0.98    0.00
+     LOW   141    0              0.01    0.06    0.01    0.91    0.00
+    TEST SCORE MEAN %:             66      74      75      81      78
+    DISCRIMINATING POWER        -0.01   -0.06   -0.01    0.09    0.00
+    STANDARD ERROR OF D.P.       0.01    0.02    0.01    0.03    0.00
+
+
+ITEM   9: DIF=0.857, RPB=  0.322, CRPB=  0.266 (95% CON=  0.183, 0.345)
+                     RBIS= 0.499, CRBIS= 0.412, IRI=0.113
+    GROUP   N   INV   NF  OMIT     A       B*      C       E       F       G       H       I 
+    TOTAL  509    0    0    0    0.06    0.86    0.00    0.01    0.00    0.01    0.03    0.03
+     HIGH  127    0              0.00    0.95    0.00    0.01    0.00    0.00    0.04    0.00
+     MID   241    0              0.03    0.90    0.00    0.02    0.00    0.00    0.02    0.02
+     LOW   141    0              0.15    0.69    0.01    0.01    0.01    0.01    0.03    0.09
+    TEST SCORE MEAN %:             74      81      69      77      71      75      81      74
+    DISCRIMINATING POWER        -0.15    0.26   -0.01   -0.01   -0.01   -0.01    0.01   -0.09
+    STANDARD ERROR OF D.P.       0.03    0.05    0.01    0.01    0.01    0.01    0.02    0.03
+
+
+ITEM  10: DIF=0.910, RPB=  0.402, CRPB=  0.356 (95% CON=  0.277, 0.429)
+                     RBIS= 0.708, CRBIS= 0.626, IRI=0.115
+    GROUP   N   INV   NF  OMIT     A*      B       D       E       F       G       H       I       K       L 
+    TOTAL  509    0    0    0    0.91    0.03    0.00    0.00    0.01    0.01    0.00    0.02    0.01    0.01
+     HIGH  127    0              1.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+     MID   241    0              0.96    0.01    0.00    0.00    0.00    0.00    0.00    0.01    0.01    0.00
+     LOW   141    0              0.74    0.08    0.01    0.01    0.04    0.03    0.00    0.04    0.03    0.03
+    TEST SCORE MEAN %:             81      72      77      70      73      76      84      72      75      68
+    DISCRIMINATING POWER         0.26   -0.08   -0.01   -0.01   -0.04   -0.03    0.00   -0.04   -0.03   -0.03
+    STANDARD ERROR OF D.P.       0.04    0.02    0.01    0.01    0.02    0.01    0.00    0.02    0.01    0.01
+                                                                                                                       Page   7
+ITEM  11: DIF=0.668, RPB=  0.280, CRPB=  0.204 (95% CON=  0.120, 0.286)
+                     RBIS= 0.364, CRBIS= 0.265, IRI=0.132
+    GROUP   N   INV   NF  OMIT     B       D       F*      G       H       J       K       L 
+    TOTAL  509    0    0    0    0.01    0.00    0.67    0.02    0.00    0.20    0.06    0.04
+     HIGH  127    0              0.00    0.00    0.86    0.00    0.00    0.09    0.04    0.01
+     MID   241    0              0.00    0.00    0.68    0.01    0.00    0.22    0.05    0.03
+     LOW   141    0              0.03    0.00    0.48    0.06    0.00    0.28    0.08    0.08
+    TEST SCORE MEAN %:             73      84      82      72      80      79      79      76
+    DISCRIMINATING POWER        -0.03    0.00    0.38   -0.06    0.00   -0.19   -0.04   -0.07
+    STANDARD ERROR OF D.P.       0.01    0.00    0.06    0.02    0.00    0.05    0.03    0.03
+
+
+ITEM  12: DIF=0.864, RPB=  0.273, CRPB=  0.217 (95% CON=  0.133, 0.299)
+                     RBIS= 0.429, CRBIS= 0.342, IRI=0.093
+    GROUP   N   INV   NF  OMIT     B       E       F       G       H       I       J       K       L*
+    TOTAL  509    0    0    0    0.02    0.03    0.02    0.00    0.00    0.06    0.00    0.00    0.86
+     HIGH  127    0              0.02    0.00    0.02    0.00    0.00    0.01    0.00    0.00    0.96
+     MID   241    0              0.01    0.03    0.01    0.00    0.00    0.03    0.00    0.00    0.90
+     LOW   141    0              0.03    0.06    0.02    0.01    0.01    0.14    0.00    0.01    0.72
+    TEST SCORE MEAN %:             80      78      79      74      71      74      78      77      81
+    DISCRIMINATING POWER        -0.01   -0.06   -0.01   -0.01   -0.01   -0.13    0.00   -0.01    0.24
+    STANDARD ERROR OF D.P.       0.02    0.02    0.02    0.01    0.01    0.03    0.00    0.01    0.05
+
+
+ITEM  13: DIF=0.642, RPB=  0.144, CRPB=  0.067 (95% CON= -0.020, 0.153)
+                     RBIS= 0.185, CRBIS= 0.086, IRI=0.069
+    GROUP   N   INV   NF  OMIT     A       B       D       G*      H       I 
+    TOTAL  509    0    0    0    0.01    0.34    0.01    0.64    0.00    0.00
+     HIGH  127    0              0.00    0.30    0.00    0.70    0.00    0.00
+     MID   241    0              0.00    0.32    0.02    0.66    0.00    0.00
+     LOW   141    0              0.02    0.40    0.01    0.56    0.01    0.01
+    TEST SCORE MEAN %:             69      80      78      81      68      72
+    DISCRIMINATING POWER        -0.02   -0.10   -0.01    0.14   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.06    0.01    0.06    0.01    0.01
+
+
+ITEM  14: DIF=0.984, RPB= -0.054, CRPB= -0.074 (95% CON= -0.160, 0.013)
+                     RBIS=-0.170, CRBIS=-0.234, IRI=-.007
+    GROUP   N   INV   NF  OMIT     B       F*      H       I 
+    TOTAL  509    0    0    0    0.00    0.98    0.00    0.01
+     HIGH  127    0              0.00    0.98    0.01    0.02
+     MID   241    0              0.00    0.98    0.00    0.01
+     LOW   141    0              0.00    0.99    0.00    0.01
+    TEST SCORE MEAN %:             79      80      89      83
+    DISCRIMINATING POWER         0.00   -0.02    0.01    0.01
+    STANDARD ERROR OF D.P.       0.00    0.01    0.01    0.01
+
+
+ITEM  15: DIF=0.861, RPB=  0.251, CRPB=  0.195 (95% CON=  0.110, 0.277)
+                     RBIS= 0.392, CRBIS= 0.305, IRI=0.087
+    GROUP   N   INV   NF  OMIT     A*      B       C       D       G       H 
+    TOTAL  509    0    0    0    0.86    0.08    0.00    0.03    0.02    0.00
+     HIGH  127    0              0.95    0.03    0.00    0.01    0.01    0.00
+     MID   241    0              0.87    0.09    0.00    0.01    0.02    0.00
+     LOW   141    0              0.77    0.12    0.00    0.09    0.02    0.01
+    TEST SCORE MEAN %:             81      78      78      73      77      78
+    DISCRIMINATING POWER         0.19   -0.09    0.00   -0.08   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.04    0.03    0.00    0.03    0.01    0.01
+                                                                                                                       Page   8
+ITEM  16: DIF=0.990, RPB=  0.088, CRPB=  0.072 (95% CON= -0.015, 0.158)
+                     RBIS= 0.332, CRBIS= 0.272, IRI=0.009
+    GROUP   N   INV   NF  OMIT     E*      F       H       I 
+    TOTAL  509    0    0    0    0.99    0.00    0.00    0.00
+     HIGH  127    0              1.00    0.00    0.00    0.00
+     MID   241    0              0.99    0.00    0.00    0.01
+     LOW   141    0              0.98    0.01    0.01    0.00
+    TEST SCORE MEAN %:             81      72      72      80
+    DISCRIMINATING POWER         0.02   -0.01   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.00
+
+
+ITEM  17: DIF=0.627, RPB=  0.253, CRPB=  0.175 (95% CON=  0.090, 0.258)
+                     RBIS= 0.324, CRBIS= 0.224, IRI=0.123
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       F       G       H 
+    TOTAL  509    0    0    0    0.01    0.63    0.02    0.00    0.03    0.31    0.00    0.00
+     HIGH  127    0              0.00    0.83    0.00    0.01    0.01    0.15    0.00    0.00
+     MID   241    0              0.01    0.60    0.02    0.00    0.04    0.33    0.00    0.00
+     LOW   141    0              0.01    0.48    0.02    0.00    0.02    0.44    0.01    0.01
+    TEST SCORE MEAN %:             71      82      78      87      79      79      76      70
+    DISCRIMINATING POWER        -0.01    0.35   -0.02    0.01   -0.01   -0.29   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.06    0.01    0.01    0.01    0.06    0.01    0.01
+
+
+ITEM  18: DIF=0.141, RPB=  0.012, CRPB= -0.044 (95% CON= -0.131, 0.043)
+                     RBIS= 0.019, CRBIS=-0.069, IRI=0.004
+    GROUP   N   INV   NF  OMIT     A       C       E       G       H*
+    TOTAL  509    0    0    0    0.00    0.03    0.00    0.83    0.14
+     HIGH  127    0              0.00    0.02    0.00    0.83    0.15
+     MID   241    0              0.00    0.03    0.00    0.82    0.14
+     LOW   141    0              0.01    0.02    0.00    0.83    0.13
+    TEST SCORE MEAN %:             69      81      84      80      81
+    DISCRIMINATING POWER        -0.01    0.00    0.00    0.00    0.01
+    STANDARD ERROR OF D.P.       0.01    0.02    0.00    0.05    0.04
+
+
+ITEM  19: DIF=0.350, RPB=  0.124, CRPB=  0.047 (95% CON= -0.040, 0.133)
+                     RBIS= 0.160, CRBIS= 0.060, IRI=0.059
+    GROUP   N   INV   NF  OMIT     A       B       C       D*      E       F       G       H 
+    TOTAL  509    0    0    0    0.23    0.05    0.30    0.35    0.04    0.01    0.02    0.00
+     HIGH  127    0              0.24    0.03    0.20    0.47    0.04    0.00    0.01    0.00
+     MID   241    0              0.25    0.05    0.32    0.32    0.01    0.01    0.02    0.01
+     LOW   141    0              0.16    0.07    0.36    0.30    0.08    0.01    0.01    0.00
+    TEST SCORE MEAN %:             82      77      80      82      79      77      80      82
+    DISCRIMINATING POWER         0.08   -0.04   -0.16    0.17   -0.04   -0.01   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.05    0.03    0.06    0.06    0.03    0.01    0.01    0.00
+
+
+ITEM  20: DIF=0.491, RPB=  0.228, CRPB=  0.147 (95% CON=  0.061, 0.231)
+                     RBIS= 0.285, CRBIS= 0.184, IRI=0.114
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F*      G       H 
+    TOTAL  509    0    0    0    0.01    0.01    0.19    0.16    0.05    0.49    0.06    0.03
+     HIGH  127    0              0.00    0.01    0.12    0.07    0.04    0.72    0.04    0.00
+     MID   241    0              0.01    0.01    0.20    0.18    0.05    0.44    0.07    0.03
+     LOW   141    0              0.01    0.01    0.23    0.20    0.06    0.36    0.08    0.06
+    TEST SCORE MEAN %:             77      80      79      79      80      82      79      78
+    DISCRIMINATING POWER        -0.01    0.00   -0.11   -0.13   -0.02    0.36   -0.04   -0.06
+    STANDARD ERROR OF D.P.       0.01    0.01    0.05    0.04    0.03    0.06    0.03    0.02
+                                                                                                                       Page   9
+ITEM  21: DIF=0.992, RPB=  0.061, CRPB=  0.047 (95% CON= -0.041, 0.133)
+                     RBIS= 0.249, CRBIS= 0.191, IRI=0.005
+    GROUP   N   INV   NF  OMIT     A       B*      F 
+    TOTAL  509    0    0    0    0.00    0.99    0.01
+     HIGH  127    0              0.00    1.00    0.00
+     MID   241    0              0.00    0.99    0.01
+     LOW   141    0              0.00    0.99    0.01
+    TEST SCORE MEAN %:             81      81      75
+    DISCRIMINATING POWER         0.00    0.01   -0.01
+    STANDARD ERROR OF D.P.       0.00    0.01    0.01
+
+
+ITEM  22: DIF=0.947, RPB=  0.170, CRPB=  0.134 (95% CON=  0.047, 0.218)
+                     RBIS= 0.352, CRBIS= 0.277, IRI=0.038
+    GROUP   N   INV   NF  OMIT     A       B       C*      D       E       F 
+    TOTAL  509    0    0    0    0.04    0.00    0.95    0.00    0.01    0.00
+     HIGH  127    0              0.00    0.01    0.98    0.00    0.01    0.00
+     MID   241    0              0.03    0.00    0.96    0.00    0.00    0.00
+     LOW   141    0              0.09    0.00    0.89    0.01    0.01    0.00
+    TEST SCORE MEAN %:             75      85      81      74      78      82
+    DISCRIMINATING POWER        -0.09    0.01    0.10   -0.01   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.03    0.01    0.03    0.01    0.01    0.00
+
+
+ITEM  23: DIF=0.976, RPB=  0.108, CRPB=  0.084 (95% CON= -0.003, 0.169)
+                     RBIS= 0.296, CRBIS= 0.229, IRI=0.016
+    GROUP   N   INV   NF  OMIT     A*      B       C       D 
+    TOTAL  509    0    0    0    0.98    0.00    0.02    0.00
+     HIGH  127    0              1.00    0.00    0.00    0.00
+     MID   241    0              0.97    0.00    0.02    0.00
+     LOW   141    0              0.96    0.00    0.03    0.01
+    TEST SCORE MEAN %:             81      80      76      76
+    DISCRIMINATING POWER         0.04    0.00   -0.03   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.00    0.01    0.01
+
+
+ITEM  24: DIF=0.963, RPB=  0.134, CRPB=  0.104 (95% CON=  0.017, 0.189)
+                     RBIS= 0.312, CRBIS= 0.241, IRI=0.025
+    GROUP   N   INV   NF  OMIT     A       C       D*      E 
+    TOTAL  509    0    0    0    0.00    0.01    0.96    0.03
+     HIGH  127    0              0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.00    0.97    0.02
+     LOW   141    0              0.00    0.03    0.92    0.05
+    TEST SCORE MEAN %:             79      75      81      76
+    DISCRIMINATING POWER         0.00   -0.03    0.08   -0.05
+    STANDARD ERROR OF D.P.       0.00    0.01    0.02    0.02
+
+
+ITEM  25: DIF=0.967, RPB=  0.101, CRPB=  0.072 (95% CON= -0.015, 0.158)
+                     RBIS= 0.244, CRBIS= 0.174, IRI=0.018
+    GROUP   N   INV   NF  OMIT     C       D       E*
+    TOTAL  509    0    0    0    0.00    0.03    0.97
+     HIGH  127    0              0.01    0.00    0.99
+     MID   241    0              0.00    0.03    0.97
+     LOW   141    0              0.00    0.06    0.94
+    TEST SCORE MEAN %:             85      77      81
+    DISCRIMINATING POWER         0.01   -0.06    0.06
+    STANDARD ERROR OF D.P.       0.01    0.02    0.02
+                                                                                                                       Page  10
+ITEM  26: DIF=0.988, RPB=  0.103, CRPB=  0.085 (95% CON= -0.002, 0.171)
+                     RBIS= 0.360, CRBIS= 0.299, IRI=0.011
+    GROUP   N   INV   NF  OMIT     B       D       F*
+    TOTAL  509    0    0    0    0.01    0.00    0.99
+     HIGH  127    0              0.00    0.00    1.00
+     MID   241    0              0.01    0.00    0.99
+     LOW   141    0              0.02    0.00    0.98
+    TEST SCORE MEAN %:             73      82      81
+    DISCRIMINATING POWER        -0.02    0.00    0.02
+    STANDARD ERROR OF D.P.       0.01    0.00    0.01
+
+
+ITEM  27: DIF=0.544, RPB=  0.286, CRPB=  0.205 (95% CON=  0.121, 0.287)
+                     RBIS= 0.359, CRBIS= 0.258, IRI=0.142
+    GROUP   N   INV   NF  OMIT     A       B       C*      D       G       I       K       L 
+    TOTAL  509    0    0    0    0.03    0.01    0.54    0.11    0.01    0.01    0.05    0.24
+     HIGH  127    0              0.02    0.00    0.73    0.06    0.00    0.01    0.03    0.15
+     MID   241    0              0.03    0.01    0.55    0.12    0.00    0.01    0.06    0.22
+     LOW   141    0              0.06    0.01    0.36    0.14    0.02    0.00    0.06    0.35
+    TEST SCORE MEAN %:             78      76      82      79      71      84      80      78
+    DISCRIMINATING POWER        -0.04   -0.01    0.37   -0.08   -0.02    0.01   -0.03   -0.21
+    STANDARD ERROR OF D.P.       0.02    0.01    0.06    0.04    0.01    0.01    0.03    0.05
+
+
+ITEM  28: DIF=0.904, RPB=  0.264, CRPB=  0.217 (95% CON=  0.132, 0.298)
+                     RBIS= 0.457, CRBIS= 0.374, IRI=0.078
+    GROUP   N   INV   NF  OMIT     B       E*      F       G       I       K 
+    TOTAL  509    0    0    0    0.00    0.90    0.06    0.01    0.00    0.02
+     HIGH  127    0              0.00    0.98    0.02    0.00    0.00    0.00
+     MID   241    0              0.00    0.92    0.05    0.00    0.00    0.02
+     LOW   141    0              0.01    0.80    0.13    0.01    0.01    0.04
+    TEST SCORE MEAN %:             73      81      75      76      72      77
+    DISCRIMINATING POWER        -0.01    0.18   -0.12   -0.01   -0.01   -0.04
+    STANDARD ERROR OF D.P.       0.01    0.04    0.03    0.01    0.01    0.02
+
+
+ITEM  29: DIF=0.857, RPB=  0.244, CRPB=  0.187 (95% CON=  0.102, 0.270)
+                     RBIS= 0.377, CRBIS= 0.290, IRI=0.085
+    GROUP   N   INV   NF  OMIT     A*      B       C       D       H       J       L 
+    TOTAL  509    0    0    0    0.86    0.13    0.00    0.00    0.01    0.00    0.00
+     HIGH  127    0              0.98    0.02    0.00    0.00    0.00    0.00    0.00
+     MID   241    0              0.86    0.12    0.00    0.00    0.01    0.00    0.00
+     LOW   141    0              0.74    0.23    0.00    0.00    0.02    0.00    0.01
+    TEST SCORE MEAN %:             81      77      78      82      75      83      60
+    DISCRIMINATING POWER         0.25   -0.22    0.00    0.00   -0.02    0.00   -0.01
+    STANDARD ERROR OF D.P.       0.04    0.04    0.00    0.00    0.01    0.00    0.01
+
+
+ITEM  30: DIF=0.882, RPB=  0.199, CRPB=  0.147 (95% CON=  0.060, 0.231)
+                     RBIS= 0.324, CRBIS= 0.239, IRI=0.064
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       G       I       J       L 
+    TOTAL  509    0    0    0    0.00    0.88    0.02    0.03    0.00    0.00    0.06    0.00
+     HIGH  127    0              0.00    0.98    0.00    0.00    0.00    0.00    0.02    0.00
+     MID   241    0              0.00    0.89    0.02    0.03    0.00    0.00    0.06    0.00
+     LOW   141    0              0.01    0.79    0.06    0.06    0.01    0.01    0.07    0.01
+    TEST SCORE MEAN %:             78      81      76      76      73      75      78      73
+    DISCRIMINATING POWER        -0.01    0.19   -0.06   -0.06   -0.01   -0.01   -0.05   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.04    0.02    0.02    0.01    0.01    0.03    0.01
+                                                                                                                       Page  11
+ITEM  31: DIF=0.674, RPB=  0.350, CRPB=  0.274 (95% CON=  0.192, 0.353)
+                     RBIS= 0.455, CRBIS= 0.357, IRI=0.164
+    GROUP   N   INV   NF  OMIT     A       B       C       D*      G       I       J       K       L 
+    TOTAL  509    0    0    0    0.14    0.01    0.07    0.67    0.08    0.00    0.01    0.00    0.02
+     HIGH  127    0              0.05    0.00    0.02    0.91    0.02    0.00    0.00    0.00    0.01
+     MID   241    0              0.15    0.01    0.08    0.68    0.07    0.00    0.00    0.00    0.01
+     LOW   141    0              0.21    0.01    0.10    0.45    0.15    0.01    0.02    0.01    0.04
+    TEST SCORE MEAN %:             78      80      78      82      76      75      72      71      77
+    DISCRIMINATING POWER        -0.17   -0.01   -0.08    0.46   -0.13   -0.01   -0.02   -0.01   -0.03
+    STANDARD ERROR OF D.P.       0.04    0.01    0.03    0.06    0.03    0.01    0.01    0.01    0.02
+
+
+ITEM  32: DIF=0.198, RPB=  0.200, CRPB=  0.136 (95% CON=  0.049, 0.220)
+                     RBIS= 0.286, CRBIS= 0.194, IRI=0.080
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F       G*      H 
+    TOTAL  509    0    0    0    0.17    0.07    0.09    0.05    0.09    0.13    0.20    0.20
+     HIGH  127    0              0.11    0.07    0.11    0.03    0.06    0.09    0.32    0.21
+     MID   241    0              0.19    0.05    0.08    0.05    0.12    0.15    0.16    0.19
+     LOW   141    0              0.21    0.09    0.08    0.05    0.08    0.14    0.15    0.20
+    TEST SCORE MEAN %:             79      80      81      79      80      80      83      80
+    DISCRIMINATING POWER        -0.10   -0.02    0.03   -0.02   -0.02   -0.06    0.17    0.01
+    STANDARD ERROR OF D.P.       0.05    0.03    0.04    0.02    0.03    0.04    0.05    0.05
+
+
+ITEM  33: DIF=0.839, RPB=  0.135, CRPB=  0.076 (95% CON= -0.011, 0.162)
+                     RBIS= 0.203, CRBIS= 0.114, IRI=0.050
+    GROUP   N   INV   NF  OMIT     C       D*      E       F       G       H 
+    TOTAL  509    0    0    0    0.00    0.84    0.09    0.05    0.00    0.01
+     HIGH  127    0              0.01    0.89    0.06    0.04    0.00    0.00
+     MID   241    0              0.00    0.87    0.07    0.05    0.01    0.00
+     LOW   141    0              0.00    0.74    0.16    0.06    0.00    0.04
+    TEST SCORE MEAN %:             87      81      78      80      84      75
+    DISCRIMINATING POWER         0.01    0.15   -0.09   -0.02    0.00   -0.04
+    STANDARD ERROR OF D.P.       0.01    0.05    0.04    0.03    0.00    0.02
+
+
+ITEM  34: DIF=0.519, RPB=  0.258, CRPB=  0.178 (95% CON=  0.092, 0.261)
+                     RBIS= 0.324, CRBIS= 0.223, IRI=0.129
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       G       H       I 
+    TOTAL  509    0    0    0    0.31    0.52    0.01    0.01    0.01    0.03    0.05    0.06
+     HIGH  127    0              0.23    0.72    0.00    0.00    0.00    0.01    0.01    0.03
+     MID   241    0              0.36    0.48    0.01    0.00    0.01    0.01    0.03    0.09
+     LOW   141    0              0.30    0.40    0.01    0.01    0.02    0.08    0.13    0.05
+    TEST SCORE MEAN %:             80      82      77      77      74      75      76      79
+    DISCRIMINATING POWER        -0.07    0.33   -0.01   -0.01   -0.02   -0.07   -0.12   -0.02
+    STANDARD ERROR OF D.P.       0.05    0.06    0.01    0.01    0.01    0.03    0.03    0.02
+
+
+ITEM  35: DIF=0.939, RPB=  0.135, CRPB=  0.097 (95% CON=  0.010, 0.182)
+                     RBIS= 0.268, CRBIS= 0.192, IRI=0.032
+    GROUP   N   INV   NF  OMIT     A       B       D*      E       F       H 
+    TOTAL  509    0    0    0    0.02    0.00    0.94    0.00    0.02    0.02
+     HIGH  127    0              0.00    0.00    0.97    0.00    0.02    0.01
+     MID   241    0              0.02    0.00    0.95    0.00    0.01    0.01
+     LOW   141    0              0.02    0.01    0.90    0.00    0.02    0.05
+    TEST SCORE MEAN %:             78      71      81      78      79      76
+    DISCRIMINATING POWER        -0.02   -0.01    0.07    0.00    0.00   -0.04
+    STANDARD ERROR OF D.P.       0.01    0.01    0.03    0.00    0.02    0.02
+                                                                                                                       Page  12
+ITEM  36: DIF=0.729, RPB=  0.130, CRPB=  0.058 (95% CON= -0.029, 0.145)
+                     RBIS= 0.175, CRBIS= 0.078, IRI=0.058
+    GROUP   N   INV   NF  OMIT     A*      B       D       E       F       G       H 
+    TOTAL  509    0    0    0    0.73    0.06    0.01    0.00    0.17    0.00    0.03
+     HIGH  127    0              0.86    0.05    0.00    0.00    0.09    0.00    0.01
+     MID   241    0              0.70    0.08    0.00    0.00    0.19    0.00    0.02
+     LOW   141    0              0.67    0.04    0.01    0.00    0.21    0.01    0.06
+    TEST SCORE MEAN %:             81      80      74      84      79      78      77
+    DISCRIMINATING POWER         0.19    0.00   -0.01    0.00   -0.13   -0.01   -0.05
+    STANDARD ERROR OF D.P.       0.05    0.03    0.01    0.00    0.04    0.01    0.02
+
+
+ITEM  37: DIF=0.316, RPB=  0.156, CRPB=  0.081 (95% CON= -0.006, 0.167)
+                     RBIS= 0.204, CRBIS= 0.106, IRI=0.072
+    GROUP   N   INV   NF  OMIT     A       B       D       E       F*      G       H 
+    TOTAL  509    0    0    0    0.06    0.60    0.00    0.01    0.32    0.00    0.01
+     HIGH  127    0              0.04    0.48    0.01    0.01    0.46    0.00    0.01
+     MID   241    0              0.08    0.61    0.00    0.01    0.28    0.00    0.01
+     LOW   141    0              0.05    0.68    0.00    0.01    0.25    0.00    0.01
+    TEST SCORE MEAN %:             79      80      83      79      82      79      80
+    DISCRIMINATING POWER        -0.01   -0.20    0.01   -0.01    0.21    0.00    0.00
+    STANDARD ERROR OF D.P.       0.03    0.06    0.01    0.01    0.06    0.00    0.01
+
+
+ITEM  38: DIF=0.819, RPB=  0.220, CRPB=  0.157 (95% CON=  0.071, 0.241)
+                     RBIS= 0.321, CRBIS= 0.230, IRI=0.084
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       F       G       H 
+    TOTAL  509    0    0    0    0.03    0.82    0.00    0.10    0.01    0.01    0.01    0.03
+     HIGH  127    0              0.01    0.93    0.00    0.06    0.00    0.00    0.00    0.00
+     MID   241    0              0.02    0.82    0.00    0.12    0.00    0.00    0.01    0.02
+     LOW   141    0              0.06    0.72    0.00    0.11    0.01    0.02    0.01    0.08
+    TEST SCORE MEAN %:             77      81      80      79      74      73      78      75
+    DISCRIMINATING POWER        -0.05    0.21    0.00   -0.04   -0.01   -0.02   -0.01   -0.08
+    STANDARD ERROR OF D.P.       0.02    0.05    0.00    0.03    0.01    0.01    0.01    0.02
+
+
+ITEM  39: DIF=0.560, RPB=  0.134, CRPB=  0.054 (95% CON= -0.033, 0.140)
+                     RBIS= 0.169, CRBIS= 0.068, IRI=0.067
+    GROUP   N   INV   NF  OMIT     A       B       C*      D       E       F       G 
+    TOTAL  509    0    0    0    0.00    0.02    0.56    0.15    0.22    0.01    0.04
+     HIGH  127    0              0.00    0.00    0.71    0.10    0.15    0.02    0.02
+     MID   241    0              0.00    0.02    0.53    0.16    0.23    0.01    0.06
+     LOW   141    0              0.01    0.04    0.48    0.18    0.26    0.00    0.03
+    TEST SCORE MEAN %:             75      77      81      79      79      85      81
+    DISCRIMINATING POWER        -0.01   -0.04    0.23   -0.07   -0.11    0.02    0.00
+    STANDARD ERROR OF D.P.       0.01    0.02    0.06    0.04    0.05    0.01    0.02
+
+
+ITEM  40: DIF=0.287, RPB=  0.093, CRPB=  0.020 (95% CON= -0.067, 0.107)
+                     RBIS= 0.124, CRBIS= 0.027, IRI=0.042
+    GROUP   N   INV   NF  OMIT     B*      E       H 
+    TOTAL  509    0    0    0    0.29    0.07    0.64
+     HIGH  127    0              0.35    0.04    0.61
+     MID   241    0              0.28    0.07    0.65
+     LOW   141    0              0.25    0.10    0.65
+    TEST SCORE MEAN %:             81      78      80
+    DISCRIMINATING POWER         0.10   -0.06   -0.04
+    STANDARD ERROR OF D.P.       0.06    0.03    0.06
+                                                                                                                       Page  13
+ITEM  41: DIF=0.949, RPB=  0.141, CRPB=  0.105 (95% CON=  0.018, 0.190)
+                     RBIS= 0.295, CRBIS= 0.220, IRI=0.031
+    GROUP   N   INV   NF  OMIT     A       C*      D       E       F 
+    TOTAL  509    0    0    0    0.00    0.95    0.02    0.00    0.03
+     HIGH  127    0              0.00    0.98    0.00    0.00    0.02
+     MID   241    0              0.00    0.95    0.01    0.00    0.03
+     LOW   141    0              0.00    0.91    0.04    0.01    0.04
+    TEST SCORE MEAN %:             80      81      74      71      78
+    DISCRIMINATING POWER         0.00    0.07   -0.04   -0.01   -0.03
+    STANDARD ERROR OF D.P.       0.00    0.03    0.02    0.01    0.02
+
+
+ITEM  42: DIF=0.947, RPB=  0.147, CRPB=  0.111 (95% CON=  0.024, 0.196)
+                     RBIS= 0.305, CRBIS= 0.230, IRI=0.033
+    GROUP   N   INV   NF  OMIT     C       D       E       F*      H 
+    TOTAL  509    0    0    0    0.04    0.00    0.01    0.95    0.00
+     HIGH  127    0              0.02    0.00    0.00    0.98    0.00
+     MID   241    0              0.03    0.01    0.00    0.95    0.00
+     LOW   141    0              0.06    0.00    0.04    0.91    0.00
+    TEST SCORE MEAN %:             77      81      73      81      80
+    DISCRIMINATING POWER        -0.04    0.00   -0.04    0.08    0.00
+    STANDARD ERROR OF D.P.       0.02    0.00    0.02    0.03    0.00
+
+
+ITEM  43: DIF=0.870, RPB=  0.201, CRPB=  0.147 (95% CON=  0.061, 0.231)
+                     RBIS= 0.320, CRBIS= 0.233, IRI=0.068
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E*      G       H 
+    TOTAL  509    0    0    0    0.01    0.01    0.00    0.05    0.87    0.01    0.05
+     HIGH  127    0              0.00    0.01    0.00    0.03    0.94    0.00    0.02
+     MID   241    0              0.01    0.00    0.00    0.05    0.88    0.02    0.04
+     LOW   141    0              0.02    0.01    0.01    0.06    0.79    0.01    0.10
+    TEST SCORE MEAN %:             74      77      70      79      81      79      76
+    DISCRIMINATING POWER        -0.02    0.00   -0.01   -0.03    0.16   -0.01   -0.08
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.03    0.04    0.01    0.03
+
+
+ITEM  44: DIF=0.401, RPB=  0.223, CRPB=  0.143 (95% CON=  0.057, 0.228)
+                     RBIS= 0.282, CRBIS= 0.182, IRI=0.109
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F       G       H*
+    TOTAL  509    0    0    0    0.00    0.01    0.02    0.12    0.05    0.00    0.40    0.40
+     HIGH  127    0              0.00    0.02    0.00    0.12    0.02    0.01    0.26    0.58
+     MID   241    0              0.00    0.00    0.01    0.12    0.05    0.00    0.44    0.37
+     LOW   141    0              0.01    0.00    0.04    0.11    0.09    0.00    0.45    0.29
+    TEST SCORE MEAN %:             80      83      73      80      76      85      80      82
+    DISCRIMINATING POWER        -0.01    0.02   -0.04    0.00   -0.08    0.01   -0.19    0.29
+    STANDARD ERROR OF D.P.       0.01    0.01    0.02    0.04    0.03    0.01    0.06    0.06
+
+
+ITEM  45: DIF=0.358, RPB=  0.191, CRPB=  0.114 (95% CON=  0.027, 0.198)
+                     RBIS= 0.245, CRBIS= 0.146, IRI=0.092
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       G*      H 
+    TOTAL  509    0    0    0    0.27    0.02    0.05    0.10    0.00    0.36    0.20
+     HIGH  127    0              0.23    0.02    0.03    0.06    0.01    0.54    0.11
+     MID   241    0              0.30    0.02    0.05    0.12    0.00    0.29    0.22
+     LOW   141    0              0.25    0.02    0.08    0.09    0.01    0.30    0.26
+    TEST SCORE MEAN %:             80      80      79      80      81      82      79
+    DISCRIMINATING POWER        -0.02    0.00   -0.05   -0.03    0.00    0.25   -0.15
+    STANDARD ERROR OF D.P.       0.05    0.02    0.03    0.03    0.01    0.06    0.05
+                                                                                                                       Page  14
+ITEM  46: DIF=0.786, RPB=  0.187, CRPB=  0.121 (95% CON=  0.034, 0.205)
+                     RBIS= 0.263, CRBIS= 0.170, IRI=0.077
+    GROUP   N   INV   NF  OMIT     B       C       D       E       F       G*
+    TOTAL  509    0    0    0    0.16    0.00    0.02    0.02    0.02    0.79
+     HIGH  127    0              0.07    0.00    0.01    0.01    0.02    0.90
+     MID   241    0              0.18    0.01    0.01    0.01    0.02    0.77
+     LOW   141    0              0.18    0.00    0.04    0.05    0.01    0.71
+    TEST SCORE MEAN %:             79      80      76      74      81      81
+    DISCRIMINATING POWER        -0.11    0.00   -0.03   -0.04    0.00    0.19
+    STANDARD ERROR OF D.P.       0.04    0.00    0.02    0.02    0.01    0.05
+
+
+ITEM  47: DIF=0.035, RPB=  0.088, CRPB=  0.058 (95% CON= -0.029, 0.145)
+                     RBIS= 0.209, CRBIS= 0.138, IRI=0.016
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F       G       H       I*
+    TOTAL  509    0    0    0    0.02    0.00    0.12    0.40    0.21    0.19    0.00    0.01    0.04
+     HIGH  127    0              0.03    0.00    0.05    0.32    0.25    0.28    0.00    0.01    0.06
+     MID   241    0              0.01    0.00    0.11    0.41    0.21    0.20    0.00    0.02    0.03
+     LOW   141    0              0.04    0.01    0.21    0.45    0.16    0.11    0.01    0.01    0.02
+    TEST SCORE MEAN %:             78      73      78      80      81      83      60      79      83
+    DISCRIMINATING POWER         0.00   -0.01   -0.16   -0.13    0.10    0.17   -0.01    0.00    0.04
+    STANDARD ERROR OF D.P.       0.02    0.01    0.04    0.06    0.05    0.05    0.01    0.01    0.02
+
+
+ITEM  48: DIF=0.409, RPB=  0.186, CRPB=  0.106 (95% CON=  0.020, 0.192)
+                     RBIS= 0.235, CRBIS= 0.135, IRI=0.091
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       F       G       H       I       J 
+    TOTAL  509    0    0    0    0.01    0.41    0.02    0.07    0.04    0.02    0.10    0.14    0.03    0.16
+     HIGH  127    0              0.01    0.54    0.02    0.06    0.02    0.00    0.11    0.11    0.00    0.14
+     MID   241    0              0.02    0.40    0.01    0.07    0.04    0.01    0.09    0.15    0.03    0.18
+     LOW   141    0              0.01    0.31    0.04    0.06    0.05    0.05    0.11    0.15    0.07    0.16
+    TEST SCORE MEAN %:             81      82      76      81      79      73      81      80      74      80
+    DISCRIMINATING POWER         0.00    0.22   -0.02   -0.01   -0.03   -0.05    0.00   -0.04   -0.07   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.06    0.02    0.03    0.02    0.02    0.04    0.04    0.02    0.04
+
+
+ITEM  49: DIF=0.432, RPB=  0.177, CRPB=  0.097 (95% CON=  0.011, 0.183)
+                     RBIS= 0.224, CRBIS= 0.123, IRI=0.088
+    GROUP   N   INV   NF  OMIT     B       C       D       F*      H       I       J 
+    TOTAL  509    0    0    0    0.02    0.16    0.01    0.43    0.05    0.30    0.03
+     HIGH  127    0              0.01    0.16    0.00    0.55    0.04    0.24    0.00
+     MID   241    0              0.01    0.16    0.01    0.41    0.05    0.31    0.06
+     LOW   141    0              0.04    0.18    0.02    0.35    0.07    0.33    0.01
+    TEST SCORE MEAN %:             77      80      75      82      77      80      80
+    DISCRIMINATING POWER        -0.03   -0.02   -0.02    0.20   -0.03   -0.08   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.05    0.01    0.06    0.03    0.06    0.01
+
+
+ITEM  50: DIF=0.157, RPB=  0.065, CRPB=  0.006 (95% CON= -0.081, 0.093)
+                     RBIS= 0.098, CRBIS= 0.009, IRI=0.024
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F       G       H*      I       J 
+    TOTAL  509    0    0    0    0.04    0.25    0.08    0.01    0.00    0.10    0.06    0.16    0.14    0.17
+     HIGH  127    0              0.06    0.28    0.06    0.00    0.00    0.07    0.03    0.20    0.11    0.19
+     MID   241    0              0.02    0.24    0.10    0.02    0.00    0.10    0.06    0.15    0.16    0.15
+     LOW   141    0              0.04    0.24    0.08    0.02    0.00    0.12    0.08    0.13    0.11    0.17
+    TEST SCORE MEAN %:             81      81      80      77      83      79      78      81      80      81
+    DISCRIMINATING POWER         0.01    0.03   -0.02   -0.02    0.00   -0.05   -0.05    0.07    0.00    0.02
+    STANDARD ERROR OF D.P.       0.03    0.05    0.03    0.01    0.00    0.04    0.03    0.05    0.04    0.05
+                                                                                                                       Page  15
+ITEM  51: DIF=0.796, RPB=  0.383, CRPB=  0.318 (95% CON=  0.238, 0.394)
+                     RBIS= 0.545, CRBIS= 0.452, IRI=0.155
+    GROUP   N   INV   NF  OMIT     A       B       C       D*      E       F       H       I 
+    TOTAL  509    0    0    0    0.00    0.01    0.00    0.80    0.05    0.06    0.02    0.05
+     HIGH  127    0              0.00    0.01    0.00    0.96    0.01    0.02    0.00    0.00
+     MID   241    0              0.00    0.00    0.00    0.83    0.05    0.05    0.02    0.05
+     LOW   141    0              0.01    0.01    0.01    0.59    0.11    0.13    0.06    0.09
+    TEST SCORE MEAN %:             62      82      71      82      77      75      75      76
+    DISCRIMINATING POWER        -0.01    0.00   -0.01    0.37   -0.10   -0.10   -0.06   -0.09
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.05    0.03    0.03    0.02    0.03
+
+
+ITEM  52: DIF=0.943, RPB=  0.323, CRPB=  0.286 (95% CON=  0.204, 0.363)
+                     RBIS= 0.655, CRBIS= 0.579, IRI=0.075
+    GROUP   N   INV   NF  OMIT     A*      B       C       G       H       I 
+    TOTAL  509    0    0    0    0.94    0.00    0.00    0.04    0.01    0.00
+     HIGH  127    0              0.99    0.00    0.00    0.01    0.00    0.00
+     MID   241    0              0.98    0.00    0.00    0.01    0.01    0.01
+     LOW   141    0              0.84    0.01    0.01    0.12    0.02    0.00
+    TEST SCORE MEAN %:             81      66      69      72      71      82
+    DISCRIMINATING POWER         0.15   -0.01   -0.01   -0.11   -0.02    0.00
+    STANDARD ERROR OF D.P.       0.03    0.01    0.01    0.03    0.01    0.00
+
+
+ITEM  53: DIF=0.817, RPB=  0.093, CRPB=  0.031 (95% CON= -0.056, 0.118)
+                     RBIS= 0.136, CRBIS= 0.045, IRI=0.036
+    GROUP   N   INV   NF  OMIT     B*      C       E       I 
+    TOTAL  509    0    0    0    0.82    0.18    0.00    0.00
+     HIGH  127    0              0.90    0.10    0.00    0.00
+     MID   241    0              0.80    0.20    0.00    0.00
+     LOW   141    0              0.77    0.21    0.01    0.01
+    TEST SCORE MEAN %:             81      79      75      74
+    DISCRIMINATING POWER         0.12   -0.11   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.05    0.04    0.01    0.01
+
+
+ITEM  54: DIF=0.464, RPB=  0.225, CRPB=  0.145 (95% CON=  0.059, 0.229)
+                     RBIS= 0.283, CRBIS= 0.182, IRI=0.112
+    GROUP   N   INV   NF  OMIT     A       C       D       F*      K       L 
+    TOTAL  509    0    0    0    0.46    0.01    0.02    0.46    0.00    0.05
+     HIGH  127    0              0.43    0.00    0.00    0.56    0.00    0.02
+     MID   241    0              0.45    0.01    0.01    0.50    0.00    0.02
+     LOW   141    0              0.50    0.00    0.06    0.31    0.00    0.12
+    TEST SCORE MEAN %:             80      81      74      82      79      76
+    DISCRIMINATING POWER        -0.08    0.00   -0.06    0.25    0.00   -0.10
+    STANDARD ERROR OF D.P.       0.06    0.00    0.02    0.06    0.00    0.03
+
+
+ITEM  55: DIF=0.939, RPB=  0.199, CRPB=  0.160 (95% CON=  0.074, 0.244)
+                     RBIS= 0.395, CRBIS= 0.318, IRI=0.048
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       G*      H       I       L 
+    TOTAL  509    0    0    0    0.00    0.01    0.00    0.01    0.01    0.94    0.02    0.01    0.00
+     HIGH  127    0              0.00    0.00    0.00    0.01    0.00    0.98    0.01    0.01    0.00
+     MID   241    0              0.00    0.01    0.00    0.02    0.00    0.96    0.00    0.00    0.00
+     LOW   141    0              0.01    0.01    0.01    0.01    0.02    0.87    0.05    0.02    0.01
+    TEST SCORE MEAN %:             71      79      73      81      71      81      77      71      70
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01    0.00   -0.02    0.10   -0.04   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01    0.01    0.03    0.02    0.01    0.01
+                                                                                                                       Page  16
+ITEM  56: DIF=0.982, RPB=  0.121, CRPB=  0.100 (95% CON=  0.013, 0.185)
+                     RBIS= 0.367, CRBIS= 0.302, IRI=0.016
+    GROUP   N   INV   NF  OMIT     A       B*      G       K 
+    TOTAL  509    0    0    0    0.00    0.98    0.00    0.01
+     HIGH  127    0              0.00    1.00    0.00    0.00
+     MID   241    0              0.00    0.98    0.00    0.02
+     LOW   141    0              0.01    0.96    0.01    0.01
+    TEST SCORE MEAN %:             73      81      61      78
+    DISCRIMINATING POWER        -0.01    0.04   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.02    0.01    0.01
+
+
+ITEM  57: DIF=0.955, RPB=  0.153, CRPB=  0.119 (95% CON=  0.033, 0.204)
+                     RBIS= 0.334, CRBIS= 0.261, IRI=0.032
+    GROUP   N   INV   NF  OMIT     C*      D       F       J 
+    TOTAL  509    0    0    0    0.95    0.04    0.00    0.00
+     HIGH  127    0              0.99    0.01    0.00    0.00
+     MID   241    0              0.96    0.04    0.00    0.00
+     LOW   141    0              0.91    0.07    0.01    0.01
+    TEST SCORE MEAN %:             81      76      75      72
+    DISCRIMINATING POWER         0.08   -0.06   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.03    0.02    0.01    0.01
+
+
+ITEM  58: DIF=0.939, RPB=  0.219, CRPB=  0.180 (95% CON=  0.095, 0.263)
+                     RBIS= 0.434, CRBIS= 0.358, IRI=0.052
+    GROUP   N   INV   NF  OMIT     A*      B       C       D       F       H       I       K 
+    TOTAL  509    0    0    0    0.94    0.02    0.01    0.02    0.01    0.00    0.00    0.00
+     HIGH  127    0              0.99    0.00    0.00    0.01    0.00    0.00    0.00    0.00
+     MID   241    0              0.96    0.00    0.01    0.02    0.01    0.00    0.00    0.00
+     LOW   141    0              0.86    0.06    0.01    0.04    0.01    0.01    0.01    0.01
+    TEST SCORE MEAN %:             81      74      74      77      75      79      71      68
+    DISCRIMINATING POWER         0.13   -0.06   -0.01   -0.03   -0.01   -0.01   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.03    0.02    0.01    0.02    0.01    0.01    0.01    0.01
+
+
+ITEM  59: DIF=0.972, RPB=  0.174, CRPB=  0.148 (95% CON=  0.062, 0.232)
+                     RBIS= 0.450, CRBIS= 0.382, IRI=0.028
+    GROUP   N   INV   NF  OMIT     B       C       D       E       H       J*      K       L 
+    TOTAL  509    0    0    0    0.00    0.01    0.00    0.00    0.00    0.97    0.00    0.01
+     HIGH  127    0              0.00    0.00    0.00    0.00    0.00    1.00    0.00    0.00
+     MID   241    0              0.00    0.00    0.00    0.00    0.00    0.99    0.00    0.01
+     LOW   141    0              0.01    0.03    0.00    0.01    0.01    0.92    0.01    0.01
+    TEST SCORE MEAN %:             58      72      84      77      77      81      72      77
+    DISCRIMINATING POWER        -0.01   -0.03    0.00   -0.01   -0.01    0.08   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.00    0.01    0.01    0.02    0.01    0.01
+
+
+ITEM  60: DIF=0.982, RPB=  0.258, CRPB=  0.237 (95% CON=  0.153, 0.317)
+                     RBIS= 0.782, CRBIS= 0.717, IRI=0.034
+    GROUP   N   INV   NF  OMIT     G       I*      K 
+    TOTAL  509    0    0    0    0.01    0.98    0.00
+     HIGH  127    0              0.00    1.00    0.00
+     MID   241    0              0.00    1.00    0.00
+     LOW   141    0              0.04    0.94    0.01
+    TEST SCORE MEAN %:             71      81      61
+    DISCRIMINATING POWER        -0.04    0.06   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.02    0.01
+                                                                                                                       Page  17
+ITEM  61: DIF=0.874, RPB=  0.330, CRPB=  0.276 (95% CON=  0.194, 0.355)
+                     RBIS= 0.529, CRBIS= 0.444, IRI=0.109
+    GROUP   N   INV   NF  OMIT     A       B*      C       D       E       F       G       I       K       L 
+    TOTAL  509    0    0    0    0.02    0.87    0.00    0.03    0.00    0.01    0.02    0.00    0.02    0.02
+     HIGH  127    0              0.02    0.97    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.02
+     MID   241    0              0.01    0.92    0.00    0.02    0.00    0.01    0.01    0.00    0.01    0.01
+     LOW   141    0              0.06    0.72    0.01    0.06    0.00    0.02    0.04    0.01    0.06    0.02
+    TEST SCORE MEAN %:             77      81      75      76      79      78      70      61      73      80
+    DISCRIMINATING POWER        -0.04    0.25   -0.01   -0.06    0.00   -0.02   -0.04   -0.01   -0.06   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.05    0.01    0.02    0.00    0.01    0.02    0.01    0.02    0.02
+
+
+ITEM  62: DIF=0.990, RPB=  0.040, CRPB=  0.024 (95% CON= -0.063, 0.111)
+                     RBIS= 0.150, CRBIS= 0.090, IRI=0.004
+    GROUP   N   INV   NF  OMIT     B       C*      D       E       H 
+    TOTAL  509    0    0    0    0.00    0.99    0.00    0.00    0.00
+     HIGH  127    0              0.00    1.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.99    0.01    0.00    0.00
+     LOW   141    0              0.01    0.99    0.00    0.01    0.00
+    TEST SCORE MEAN %:             66      81      84      75      82
+    DISCRIMINATING POWER        -0.01    0.01    0.00   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.01    0.01    0.00    0.01    0.00
+
+
+ITEM  63: DIF=0.935, RPB=  0.290, CRPB=  0.250 (95% CON=  0.167, 0.330)
+                     RBIS= 0.564, CRBIS= 0.487, IRI=0.071
+    GROUP   N   INV   NF  OMIT     A*      B       D       F       G       H       I 
+    TOTAL  509    0    0    0    0.94    0.00    0.00    0.00    0.01    0.04    0.01
+     HIGH  127    0              0.98    0.00    0.00    0.01    0.01    0.00    0.00
+     MID   241    0              0.97    0.00    0.00    0.00    0.00    0.02    0.00
+     LOW   141    0              0.84    0.01    0.01    0.00    0.03    0.10    0.01
+    TEST SCORE MEAN %:             81      68      67      85      75      74      74
+    DISCRIMINATING POWER         0.15   -0.01   -0.01    0.01   -0.02   -0.10   -0.01
+    STANDARD ERROR OF D.P.       0.04    0.01    0.01    0.01    0.02    0.03    0.01
+
+
+ITEM  64: DIF=0.933, RPB=  0.227, CRPB=  0.186 (95% CON=  0.101, 0.269)
+                     RBIS= 0.437, CRBIS= 0.359, IRI=0.057
+    GROUP   N   INV   NF  OMIT     A       B       D       E*      F       H       I       J       L 
+    TOTAL  509    0    0    0    0.00    0.00    0.04    0.93    0.00    0.00    0.01    0.00    0.00
+     HIGH  127    0              0.00    0.00    0.01    0.98    0.00    0.00    0.01    0.00    0.00
+     MID   241    0              0.00    0.00    0.03    0.95    0.00    0.00    0.01    0.00    0.00
+     LOW   141    0              0.01    0.01    0.09    0.87    0.01    0.01    0.01    0.01    0.00
+    TEST SCORE MEAN %:             68      70      75      81      71      74      80      74      79
+    DISCRIMINATING POWER        -0.01   -0.01   -0.08    0.12   -0.01   -0.01    0.00   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.01    0.01    0.03    0.03    0.01    0.01    0.01    0.01    0.00
+
+
+ITEM  65: DIF=0.843, RPB=  0.483, CRPB=  0.425 (95% CON=  0.351, 0.493)
+                     RBIS= 0.732, CRBIS= 0.643, IRI=0.176
+    GROUP   N   INV   NF  OMIT     A       B       D       E       F       G       H*      I       J       L 
+    TOTAL  509    0    0    0    0.03    0.01    0.00    0.01    0.00    0.01    0.84    0.05    0.00    0.05
+     HIGH  127    0              0.00    0.00    0.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00
+     MID   241    0              0.02    0.00    0.00    0.00    0.00    0.01    0.89    0.05    0.00    0.03
+     LOW   141    0              0.07    0.02    0.01    0.03    0.00    0.01    0.62    0.11    0.01    0.11
+    TEST SCORE MEAN %:             74      68      70      69      84      76      82      75      67      73
+    DISCRIMINATING POWER        -0.07   -0.02   -0.01   -0.03    0.00   -0.01    0.38   -0.11   -0.01   -0.11
+    STANDARD ERROR OF D.P.       0.02    0.01    0.01    0.01    0.00    0.01    0.05    0.03    0.01    0.03
+                                                                                                                       Page  18
+ITEM  66: DIF=0.986, RPB=  0.227, CRPB=  0.208 (95% CON=  0.124, 0.290)
+                     RBIS= 0.753, CRBIS= 0.691, IRI=0.026
+    GROUP   N   INV   NF  OMIT     A       B       C       D*      I 
+    TOTAL  509    0    0    0    0.00    0.00    0.00    0.99    0.00
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.00    0.00    1.00    0.00
+     LOW   141    0              0.01    0.01    0.00    0.96    0.01
+    TEST SCORE MEAN %:             71      64      80      81      66
+    DISCRIMINATING POWER        -0.01   -0.01    0.00    0.04   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.00    0.02    0.01
+
+
+ITEM  67: DIF=0.998, RPB=  0.068, CRPB=  0.061 (95% CON= -0.026, 0.147)
+                     RBIS= 0.483, CRBIS= 0.432, IRI=0.003
+    GROUP   N   INV   NF  OMIT     C       E*
+    TOTAL  509    0    0    0    0.00    1.00
+     HIGH  127    0              0.00    1.00
+     MID   241    0              0.00    1.00
+     LOW   141    0              0.01    0.99
+    TEST SCORE MEAN %:             71      81
+    DISCRIMINATING POWER        -0.01    0.01
+    STANDARD ERROR OF D.P.       0.01    0.01
+
+
+ITEM  68: DIF=0.990, RPB=  0.088, CRPB=  0.072 (95% CON= -0.015, 0.158)
+                     RBIS= 0.332, CRBIS= 0.272, IRI=0.009
+    GROUP   N   INV   NF  OMIT     B       C       F*      L 
+    TOTAL  509    0    0    0    0.00    0.01    0.99    0.00
+     HIGH  127    0              0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.01    0.99    0.00
+     LOW   141    0              0.01    0.01    0.98    0.01
+    TEST SCORE MEAN %:             72      79      81      67
+    DISCRIMINATING POWER        -0.01   -0.01    0.02   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01
+
+
+ITEM  69: DIF=0.772, RPB=  0.284, CRPB=  0.217 (95% CON=  0.132, 0.298)
+                     RBIS= 0.395, CRBIS= 0.301, IRI=0.119
+    GROUP   N   INV   NF  OMIT     A       C       F       G       H*      J       K 
+    TOTAL  509    0    0    0    0.01    0.00    0.00    0.01    0.77    0.19    0.00
+     HIGH  127    0              0.00    0.01    0.00    0.00    0.90    0.09    0.00
+     MID   241    0              0.01    0.00    0.00    0.01    0.81    0.17    0.00
+     LOW   141    0              0.03    0.00    0.01    0.03    0.60    0.33    0.01
+    TEST SCORE MEAN %:             76      82      74      77      81      77      72
+    DISCRIMINATING POWER        -0.03    0.01   -0.01   -0.03    0.30   -0.23   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01    0.05    0.05    0.01
+
+
+ITEM  70: DIF=0.692, RPB=  0.290, CRPB=  0.216 (95% CON=  0.131, 0.297)
+                     RBIS= 0.381, CRBIS= 0.283, IRI=0.134
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F       G*      H       K       L 
+    TOTAL  509    0    0    0    0.17    0.04    0.00    0.02    0.01    0.01    0.69    0.06    0.00    0.01
+     HIGH  127    0              0.09    0.02    0.00    0.00    0.00    0.01    0.83    0.05    0.00    0.00
+     MID   241    0              0.14    0.04    0.00    0.02    0.01    0.00    0.71    0.07    0.00    0.00
+     LOW   141    0              0.28    0.05    0.01    0.03    0.01    0.01    0.54    0.04    0.01    0.03
+    TEST SCORE MEAN %:             78      78      70      76      73      78      82      80      74      71
+    DISCRIMINATING POWER        -0.18   -0.03   -0.01   -0.03   -0.01    0.00    0.29    0.00   -0.01   -0.03
+    STANDARD ERROR OF D.P.       0.05    0.02    0.01    0.01    0.01    0.01    0.06    0.03    0.01    0.01
+                                                                                                                       Page  19
+ITEM  71: DIF=0.802, RPB=  0.336, CRPB=  0.272 (95% CON=  0.189, 0.350)
+                     RBIS= 0.481, CRBIS= 0.389, IRI=0.134
+    GROUP   N   INV   NF  OMIT     A       B       C       D       E       F*      G       H       I       J       K       L 
+    TOTAL  509    0    0    0    0.04    0.01    0.01    0.06    0.02    0.80    0.01    0.03    0.02    0.01    0.01    0.00
+     HIGH  127    0              0.00    0.00    0.00    0.03    0.02    0.93    0.00    0.01    0.01    0.00    0.01    0.00
+     MID   241    0              0.03    0.00    0.00    0.07    0.02    0.84    0.01    0.01    0.01    0.00    0.00    0.00
+     LOW   141    0              0.07    0.02    0.03    0.06    0.04    0.62    0.01    0.06    0.04    0.02    0.02    0.01
+    TEST SCORE MEAN %:             74      76      75      80      79      82      77      75      73      72      75      67
+    DISCRIMINATING POWER        -0.07   -0.02   -0.03   -0.03   -0.02    0.31   -0.01   -0.06   -0.03   -0.02   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.01    0.01    0.03    0.02    0.05    0.01    0.02    0.02    0.01    0.01    0.01
+
+
+ITEM  72: DIF=0.951, RPB=  0.184, CRPB=  0.149 (95% CON=  0.063, 0.233)
+                     RBIS= 0.390, CRBIS= 0.316, IRI=0.040
+    GROUP   N   INV   NF  OMIT     B       C       D       F       H       I       J*      K       L 
+    TOTAL  509    0    0    0    0.00    0.00    0.00    0.00    0.01    0.02    0.95    0.01    0.01
+     HIGH  127    0              0.00    0.00    0.00    0.00    0.00    0.02    0.98    0.00    0.00
+     MID   241    0              0.00    0.00    0.00    0.00    0.01    0.00    0.97    0.01    0.01
+     LOW   141    0              0.01    0.01    0.01    0.01    0.01    0.04    0.89    0.01    0.01
+    TEST SCORE MEAN %:             77      77      77      69      77      77      81      77      72
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01   -0.01   -0.01   -0.02    0.10   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01    0.01    0.02    0.03    0.01    0.01
+
+
+ITEM  73: DIF=0.927, RPB=  0.322, CRPB=  0.280 (95% CON=  0.198, 0.359)
+                     RBIS= 0.606, CRBIS= 0.527, IRI=0.084
+    GROUP   N   INV   NF  OMIT     B       C       D       E       F       G       H       L*
+    TOTAL  509    0    0    0    0.01    0.02    0.00    0.02    0.01    0.00    0.01    0.93
+     HIGH  127    0              0.00    0.01    0.00    0.00    0.00    0.00    0.00    0.99
+     MID   241    0              0.01    0.02    0.00    0.01    0.00    0.00    0.01    0.95
+     LOW   141    0              0.02    0.02    0.01    0.06    0.02    0.01    0.03    0.82
+    TEST SCORE MEAN %:             78      77      65      70      63      72      77      81
+    DISCRIMINATING POWER        -0.02   -0.01   -0.01   -0.06   -0.02   -0.01   -0.03    0.17
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.02    0.01    0.01    0.01    0.04
+
+
+ITEM  74: DIF=0.963, RPB=  0.139, CRPB=  0.109 (95% CON=  0.022, 0.194)
+                     RBIS= 0.324, CRBIS= 0.253, IRI=0.026
+    GROUP   N   INV   NF  OMIT     A       D       E*      F 
+    TOTAL  509    0    0    0    0.00    0.00    0.96    0.03
+     HIGH  127    0              0.00    0.00    0.98    0.02
+     MID   241    0              0.00    0.00    0.98    0.02
+     LOW   141    0              0.01    0.01    0.92    0.06
+    TEST SCORE MEAN %:             76      61      81      77
+    DISCRIMINATING POWER        -0.01   -0.01    0.05   -0.03
+    STANDARD ERROR OF D.P.       0.01    0.01    0.03    0.02
+
+
+ITEM  75: DIF=0.955, RPB=  0.261, CRPB=  0.228 (95% CON=  0.144, 0.309)
+                     RBIS= 0.571, CRBIS= 0.498, IRI=0.054
+    GROUP   N   INV   NF  OMIT     A       D       F       G*      H 
+    TOTAL  509    0    0    0    0.00    0.02    0.00    0.95    0.02
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.02    0.00    0.98    0.00
+     LOW   141    0              0.01    0.06    0.01    0.87    0.06
+    TEST SCORE MEAN %:             77      74      68      81      72
+    DISCRIMINATING POWER        -0.01   -0.06   -0.01    0.13   -0.06
+    STANDARD ERROR OF D.P.       0.01    0.02    0.01    0.03    0.02
+                                                                                                                       Page  20
+ITEM  76: DIF=0.965, RPB=  0.120, CRPB=  0.090 (95% CON=  0.003, 0.175)
+                     RBIS= 0.284, CRBIS= 0.213, IRI=0.022
+    GROUP   N   INV   NF  OMIT     A       C*      F       H       I 
+    TOTAL  509    0    0    0    0.01    0.96    0.00    0.00    0.01
+     HIGH  127    0              0.00    1.00    0.00    0.00    0.00
+     MID   241    0              0.01    0.97    0.00    0.00    0.02
+     LOW   141    0              0.04    0.93    0.01    0.01    0.01
+    TEST SCORE MEAN %:             77      81      70      73      79
+    DISCRIMINATING POWER        -0.04    0.07   -0.01   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.02    0.01    0.01    0.01
+
+
+ITEM  77: DIF=0.972, RPB=  0.164, CRPB=  0.138 (95% CON=  0.052, 0.222)
+                     RBIS= 0.425, CRBIS= 0.357, IRI=0.027
+    GROUP   N   INV   NF  OMIT     A       C       F       G       H       I*
+    TOTAL  509    0    0    0    0.01    0.01    0.01    0.00    0.00    0.97
+     HIGH  127    0              0.00    0.00    0.00    0.00    0.00    1.00
+     MID   241    0              0.00    0.01    0.00    0.00    0.00    0.98
+     LOW   141    0              0.01    0.02    0.01    0.00    0.01    0.94
+    TEST SCORE MEAN %:             73      76      74      79      69      81
+    DISCRIMINATING POWER        -0.01   -0.02   -0.01    0.00   -0.01    0.06
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.00    0.01    0.02
+
+
+ITEM  78: DIF=0.949, RPB=  0.224, CRPB=  0.189 (95% CON=  0.103, 0.271)
+                     RBIS= 0.471, CRBIS= 0.396, IRI=0.049
+    GROUP   N   INV   NF  OMIT     A       B       C       D*      E       H 
+    TOTAL  509    0    0    0    0.02    0.00    0.03    0.95    0.00    0.00
+     HIGH  127    0              0.02    0.00    0.00    0.98    0.00    0.00
+     MID   241    0              0.00    0.00    0.02    0.98    0.00    0.00
+     LOW   141    0              0.04    0.01    0.06    0.87    0.01    0.01
+    TEST SCORE MEAN %:             77      74      75      81      73      58
+    DISCRIMINATING POWER        -0.02   -0.01   -0.06    0.11   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.02    0.01    0.02    0.03    0.01    0.01
+
+
+ITEM  79: DIF=0.825, RPB=  0.372, CRPB=  0.311 (95% CON=  0.230, 0.388)
+                     RBIS= 0.549, CRBIS= 0.459, IRI=0.141
+    GROUP   N   INV   NF  OMIT     A       C       D       E       G       H*      I 
+    TOTAL  509    0    0    0    0.00    0.13    0.00    0.00    0.03    0.83    0.00
+     HIGH  127    0              0.00    0.02    0.00    0.00    0.01    0.97    0.00
+     MID   241    0              0.00    0.11    0.00    0.00    0.02    0.85    0.00
+     LOW   141    0              0.01    0.26    0.01    0.01    0.06    0.65    0.01
+    TEST SCORE MEAN %:             80      75      78      68      76      82      74
+    DISCRIMINATING POWER        -0.01   -0.23   -0.01   -0.01   -0.06    0.32   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.04    0.01    0.01    0.02    0.05    0.01
+
+
+ITEM  80: DIF=0.935, RPB=  0.216, CRPB=  0.177 (95% CON=  0.091, 0.259)
+                     RBIS= 0.421, CRBIS= 0.344, IRI=0.053
+    GROUP   N   INV   NF  OMIT     C*      D       G       H 
+    TOTAL  509    0    0    0    0.94    0.06    0.01    0.00
+     HIGH  127    0              0.98    0.02    0.00    0.00
+     MID   241    0              0.96    0.04    0.00    0.00
+     LOW   141    0              0.86    0.11    0.02    0.01
+    TEST SCORE MEAN %:             81      76      74      55
+    DISCRIMINATING POWER         0.12   -0.09   -0.02   -0.01
+    STANDARD ERROR OF D.P.       0.03    0.03    0.01    0.01
+                                                                                                                       Page  21
+ITEM  81: DIF=0.947, RPB=  0.205, CRPB=  0.169 (95% CON=  0.083, 0.252)
+                     RBIS= 0.426, CRBIS= 0.351, IRI=0.046
+    GROUP   N   INV   NF  OMIT     A       B       D       G       H*      J 
+    TOTAL  509    0    0    0    0.00    0.00    0.01    0.04    0.95    0.01
+     HIGH  127    0              0.00    0.00    0.00    0.02    0.98    0.00
+     MID   241    0              0.00    0.00    0.00    0.02    0.97    0.00
+     LOW   141    0              0.01    0.01    0.02    0.06    0.88    0.02
+    TEST SCORE MEAN %:             55      72      69      77      81      76
+    DISCRIMINATING POWER        -0.01   -0.01   -0.02   -0.04    0.10   -0.02
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.03    0.03    0.01
+
+
+ITEM  82: DIF=0.957, RPB=  0.202, CRPB=  0.169 (95% CON=  0.084, 0.253)
+                     RBIS= 0.448, CRBIS= 0.376, IRI=0.041
+    GROUP   N   INV   NF  OMIT     B       D       E       G       I*      L 
+    TOTAL  509    0    0    0    0.01    0.00    0.01    0.02    0.96    0.00
+     HIGH  127    0              0.00    0.01    0.00    0.01    0.98    0.00
+     MID   241    0              0.00    0.00    0.00    0.02    0.98    0.00
+     LOW   141    0              0.03    0.01    0.02    0.04    0.90    0.01
+    TEST SCORE MEAN %:             72      81      71      76      81      72
+    DISCRIMINATING POWER        -0.03    0.00   -0.02   -0.03    0.08   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.02    0.03    0.01
+
+
+ITEM  83: DIF=0.540, RPB=  0.266, CRPB=  0.185 (95% CON=  0.100, 0.268)
+                     RBIS= 0.334, CRBIS= 0.233, IRI=0.133
+    GROUP   N   INV   NF  OMIT     A       B       C       D       F       G       H       I       J*      K       L 
+    TOTAL  509    0    0    0    0.00    0.00    0.00    0.01    0.00    0.04    0.01    0.00    0.54    0.38    0.01
+     HIGH  127    0              0.00    0.00    0.00    0.02    0.01    0.01    0.00    0.00    0.72    0.25    0.00
+     MID   241    0              0.00    0.00    0.00    0.00    0.00    0.05    0.00    0.00    0.55    0.39    0.00
+     LOW   141    0              0.01    0.01    0.01    0.01    0.00    0.06    0.01    0.01    0.36    0.50    0.02
+    TEST SCORE MEAN %:             73      70      68      82      88      78      78      75      82      79      68
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01    0.01    0.01   -0.06   -0.01   -0.01    0.35   -0.24   -0.02
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01    0.01    0.02    0.01    0.01    0.06    0.06    0.01
+
+
+ITEM  84: DIF=0.965, RPB=  0.224, CRPB=  0.195 (95% CON=  0.110, 0.277)
+                     RBIS= 0.532, CRBIS= 0.462, IRI=0.041
+    GROUP   N   INV   NF  OMIT     A       B*      D       F       G       K       L 
+    TOTAL  509    0    0    0    0.00    0.96    0.01    0.00    0.01    0.01    0.00
+     HIGH  127    0              0.00    0.99    0.01    0.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.98    0.01    0.00    0.00    0.00    0.00
+     LOW   141    0              0.01    0.91    0.01    0.01    0.01    0.04    0.01
+    TEST SCORE MEAN %:             77      81      76      72      72      70      76
+    DISCRIMINATING POWER        -0.01    0.08   -0.01   -0.01   -0.01   -0.04   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.03    0.01    0.01    0.01    0.02    0.01
+
+
+ITEM  85: DIF=0.933, RPB=  0.270, CRPB=  0.230 (95% CON=  0.146, 0.310)
+                     RBIS= 0.521, CRBIS= 0.443, IRI=0.067
+    GROUP   N   INV   NF  OMIT     C*      E       L 
+    TOTAL  509    0    0    0    0.93    0.06    0.00
+     HIGH  127    0              0.99    0.00    0.01
+     MID   241    0              0.95    0.05    0.00
+     LOW   141    0              0.84    0.16    0.00
+    TEST SCORE MEAN %:             81      74      86
+    DISCRIMINATING POWER         0.15   -0.16    0.01
+    STANDARD ERROR OF D.P.       0.03    0.03    0.01
+                                                                                                                       Page  22
+ITEM  86: DIF=0.988, RPB=  0.158, CRPB=  0.141 (95% CON=  0.055, 0.225)
+                     RBIS= 0.557, CRBIS= 0.495, IRI=0.017
+    GROUP   N   INV   NF  OMIT     A       F       I       J*      L 
+    TOTAL  509    0    0    0    0.01    0.00    0.00    0.99    0.00
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.00    0.00    1.00    0.00
+     LOW   141    0              0.02    0.01    0.01    0.96    0.01
+    TEST SCORE MEAN %:             71      65      76      81      75
+    DISCRIMINATING POWER        -0.02   -0.01   -0.01    0.04   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.02    0.01
+
+
+ITEM  87: DIF=0.982, RPB=  0.138, CRPB=  0.117 (95% CON=  0.030, 0.202)
+                     RBIS= 0.418, CRBIS= 0.353, IRI=0.018
+    GROUP   N   INV   NF  OMIT     A       C       F       H*      L 
+    TOTAL  509    0    0    0    0.00    0.00    0.01    0.98    0.00
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00
+     MID   241    0              0.00    0.00    0.01    0.99    0.00
+     LOW   141    0              0.01    0.01    0.01    0.96    0.01
+    TEST SCORE MEAN %:             74      73      76      81      72
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01    0.04   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.02    0.01
+
+
+ITEM  88: DIF=0.992, RPB=  0.068, CRPB=  0.054 (95% CON= -0.033, 0.140)
+                     RBIS= 0.279, CRBIS= 0.220, IRI=0.006
+    GROUP   N   INV   NF  OMIT     A       B*      C       D 
+    TOTAL  509    0    0    0    0.00    0.99    0.00    0.00
+     HIGH  127    0              0.00    1.00    0.00    0.00
+     MID   241    0              0.00    0.99    0.00    0.00
+     LOW   141    0              0.01    0.99    0.01    0.00
+    TEST SCORE MEAN %:             73      81      76      78
+    DISCRIMINATING POWER        -0.01    0.01   -0.01    0.00
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.00
+
+
+ITEM  89: DIF=0.984, RPB=  0.046, CRPB=  0.025 (95% CON= -0.062, 0.112)
+                     RBIS= 0.144, CRBIS= 0.080, IRI=0.006
+    GROUP   N   INV   NF  OMIT     A       D*      I 
+    TOTAL  509    0    0    0    0.00    0.98    0.01
+     HIGH  127    0              0.00    0.99    0.01
+     MID   241    0              0.00    0.98    0.02
+     LOW   141    0              0.00    0.99    0.01
+    TEST SCORE MEAN %:             80      81      78
+    DISCRIMINATING POWER         0.00    0.01   -0.01
+    STANDARD ERROR OF D.P.       0.00    0.01    0.01
+
+
+ITEM  90: DIF=0.829, RPB=  0.329, CRPB=  0.268 (95% CON=  0.185, 0.347)
+                     RBIS= 0.487, CRBIS= 0.397, IRI=0.124
+    GROUP   N   INV   NF  OMIT     A       C       E*      F       H 
+    TOTAL  509    0    0    0    0.13    0.00    0.83    0.04    0.01
+     HIGH  127    0              0.01    0.00    0.97    0.02    0.00
+     MID   241    0              0.11    0.00    0.85    0.02    0.01
+     LOW   141    0              0.26    0.00    0.66    0.08    0.01
+    TEST SCORE MEAN %:             76      82      81      76      75
+    DISCRIMINATING POWER        -0.25    0.00    0.31   -0.05   -0.01
+    STANDARD ERROR OF D.P.       0.04    0.00    0.05    0.03    0.01
+                                                                                                                       Page  23
+ITEM  91: DIF=0.961, RPB=  0.383, CRPB=  0.352 (95% CON=  0.273, 0.426)
+                     RBIS= 0.877, CRBIS= 0.805, IRI=0.074
+    GROUP   N   INV   NF  OMIT     A       C       D       E       F*      G       H       I 
+    TOTAL  509    0    0    0    0.00    0.00    0.02    0.00    0.96    0.00    0.01    0.00
+     HIGH  127    0              0.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.00    0.00    0.00    0.99    0.00    0.00    0.00
+     LOW   141    0              0.01    0.01    0.06    0.01    0.88    0.00    0.01    0.01
+    TEST SCORE MEAN %:             65      63      70      72      81      83      67      65
+    DISCRIMINATING POWER        -0.01   -0.01   -0.06   -0.01    0.12    0.00   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.02    0.01    0.03    0.00    0.01    0.01
+
+
+ITEM  92: DIF=0.982, RPB=  0.290, CRPB=  0.268 (95% CON=  0.186, 0.347)
+                     RBIS= 0.877, CRBIS= 0.812, IRI=0.038
+    GROUP   N   INV   NF  OMIT     A       B       D       F       H*
+    TOTAL  509    0    0    0    0.01    0.00    0.00    0.01    0.98
+     HIGH  127    0              0.00    0.00    0.00    0.00    1.00
+     MID   241    0              0.00    0.00    0.00    0.00    0.99
+     LOW   141    0              0.01    0.01    0.01    0.01    0.95
+    TEST SCORE MEAN %:             69      68      64      67      81
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01   -0.01    0.05
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.01    0.02
+
+
+ITEM  93: DIF=0.980, RPB=  0.256, CRPB=  0.233 (95% CON=  0.149, 0.314)
+                     RBIS= 0.745, CRBIS= 0.679, IRI=0.035
+    GROUP   N   INV   NF  OMIT     C       E       G       H       I*
+    TOTAL  509    0    0    0    0.00    0.00    0.01    0.00    0.98
+     HIGH  127    0              0.00    0.00    0.01    0.00    0.99
+     MID   241    0              0.00    0.00    0.00    0.00    1.00
+     LOW   141    0              0.01    0.01    0.04    0.01    0.94
+    TEST SCORE MEAN %:             55      61      73      63      81
+    DISCRIMINATING POWER        -0.01   -0.01   -0.03   -0.01    0.05
+    STANDARD ERROR OF D.P.       0.01    0.01    0.02    0.01    0.02
+
+
+ITEM  94: DIF=0.996, RPB=  0.096, CRPB=  0.086 (95% CON= -0.001, 0.172)
+                     RBIS= 0.517, CRBIS= 0.462, IRI=0.006
+    GROUP   N   INV   NF  OMIT     F       I*
+    TOTAL  509    0    0    0    0.00    1.00
+     HIGH  127    0              0.00    1.00
+     MID   241    0              0.00    1.00
+     LOW   141    0              0.01    0.99
+    TEST SCORE MEAN %:             71      81
+    DISCRIMINATING POWER        -0.01    0.01
+    STANDARD ERROR OF D.P.       0.01    0.01
+
+
+ITEM  95: DIF=0.959, RPB=  0.238, CRPB=  0.206 (95% CON=  0.121, 0.288)
+                     RBIS= 0.536, CRBIS= 0.463, IRI=0.047
+    GROUP   N   INV   NF  OMIT     C       D*      G 
+    TOTAL  509    0    0    0    0.04    0.96    0.00
+     HIGH  127    0              0.01    0.99    0.00
+     MID   241    0              0.02    0.98    0.00
+     LOW   141    0              0.09    0.90    0.01
+    TEST SCORE MEAN %:             73      81      72
+    DISCRIMINATING POWER        -0.08    0.09   -0.01
+    STANDARD ERROR OF D.P.       0.03    0.03    0.01
+                                                                                                                       Page  24
+ITEM  96: DIF=0.754, RPB=  0.189, CRPB=  0.119 (95% CON=  0.033, 0.204)
+                     RBIS= 0.258, CRBIS= 0.163, IRI=0.081
+    GROUP   N   INV   NF  OMIT     B       E*      F       G       K       L       M 
+    TOTAL  509    0    0    0    0.00    0.75    0.01    0.00    0.00    0.23    0.00
+     HIGH  127    0              0.00    0.81    0.00    0.00    0.00    0.19    0.00
+     MID   241    0              0.00    0.78    0.00    0.00    0.00    0.20    0.00
+     LOW   141    0              0.01    0.65    0.02    0.01    0.01    0.30    0.00
+    TEST SCORE MEAN %:             67      81      75      77      73      79      84
+    DISCRIMINATING POWER        -0.01    0.16   -0.02   -0.01   -0.01   -0.12    0.00
+    STANDARD ERROR OF D.P.       0.01    0.05    0.01    0.01    0.01    0.05    0.00
+
+
+ITEM  97: DIF=0.978, RPB=  0.173, CRPB=  0.150 (95% CON=  0.063, 0.233)
+                     RBIS= 0.487, CRBIS= 0.421, IRI=0.025
+    GROUP   N   INV   NF  OMIT     A       B       E       F*      G       J       L 
+    TOTAL  509    0    0    0    0.01    0.00    0.00    0.98    0.00    0.00    0.00
+     HIGH  127    0              0.00    0.00    0.00    1.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.00    0.00    1.00    0.00    0.00    0.00
+     LOW   141    0              0.01    0.01    0.01    0.93    0.01    0.01    0.01
+    TEST SCORE MEAN %:             74      72      73      81      74      74      72
+    DISCRIMINATING POWER        -0.01   -0.01   -0.01    0.07   -0.01   -0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01    0.01    0.02    0.01    0.01    0.01
+
+
+ITEM  98: DIF=0.998, RPB=  0.089, CRPB=  0.082 (95% CON= -0.005, 0.168)
+                     RBIS= 0.635, CRBIS= 0.585, IRI=0.004
+    GROUP   N   INV   NF  OMIT     C*      D 
+    TOTAL  509    0    0    0    1.00    0.00
+     HIGH  127    0              1.00    0.00
+     MID   241    0              1.00    0.00
+     LOW   141    0              0.99    0.01
+    TEST SCORE MEAN %:             81      68
+    DISCRIMINATING POWER         0.01   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.01
+
+
+ITEM  99: DIF=0.941, RPB=  0.316, CRPB=  0.278 (95% CON=  0.196, 0.356)
+                     RBIS= 0.634, CRBIS= 0.557, IRI=0.074
+    GROUP   N   INV   NF  OMIT     D       E*      F       G       I       L 
+    TOTAL  509    0    0    0    0.00    0.94    0.00    0.00    0.05    0.00
+     HIGH  127    0              0.00    1.00    0.00    0.00    0.00    0.00
+     MID   241    0              0.00    0.98    0.00    0.00    0.02    0.00
+     LOW   141    0              0.01    0.82    0.01    0.01    0.15    0.01
+    TEST SCORE MEAN %:             70      81      76      71      73      74
+    DISCRIMINATING POWER        -0.01    0.18   -0.01   -0.01   -0.15   -0.01
+    STANDARD ERROR OF D.P.       0.01    0.04    0.01    0.01    0.03    0.01
+
+
+ITEM 100: DIF=0.811, RPB=  0.278, CRPB=  0.214 (95% CON=  0.130, 0.296)
+                     RBIS= 0.402, CRBIS= 0.310, IRI=0.109
+    GROUP   N   INV   NF  OMIT     B       E       F       G*      H 
+    TOTAL  509    0    0    0    0.17    0.00    0.01    0.81    0.01
+     HIGH  127    0              0.06    0.00    0.02    0.93    0.00
+     MID   241    0              0.14    0.00    0.01    0.84    0.01
+     LOW   141    0              0.33    0.01    0.01    0.65    0.01
+    TEST SCORE MEAN %:             77      71      81      81      76
+    DISCRIMINATING POWER        -0.27   -0.01    0.01    0.28   -0.01
+    STANDARD ERROR OF D.P.       0.05    0.01    0.01    0.05    0.01
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  25
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM   1                              QUINTILE:                   ITEM   2
+  Highest-      °                                                   Highest-                                     °             
+ 
+      4th-      °                                                       4th-                               °                   
+ 
+      3rd-   °                                                          3rd-                        °                          
+ 
+      2nd-     °                                                        2nd-                     °                             
+ 
+   Lowest-    °                                                      Lowest-                     °                             
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM   3                              QUINTILE:                   ITEM   4
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                 °            4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                  °
+ 
+      2nd-                                                °             2nd-                                                  °
+ 
+   Lowest-                                              °            Lowest-                                                  °
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM   5                              QUINTILE:                   ITEM   6
+  Highest-                                                 °        Highest-                                                  °
+ 
+      4th-                                               °              4th-                                                  °
+ 
+      3rd-                                              °               3rd-                                               °   
+ 
+      2nd-                                            °                 2nd-                                           °       
+ 
+   Lowest-                                    °                      Lowest-                                       °           
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM   7                              QUINTILE:                   ITEM   8
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                °             3rd-                                                 ° 
+ 
+      2nd-                                                °             2nd-                                               °   
+ 
+   Lowest-                                         °                 Lowest-                                             °     
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  26
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM   9                              QUINTILE:                   ITEM  10
+  Highest-                                                °         Highest-                                                  °
+ 
+      4th-                                                °             4th-                                                  °
+ 
+      3rd-                                               °              3rd-                                                °  
+ 
+      2nd-                                      °                       2nd-                                            °      
+ 
+   Lowest-                                 °                         Lowest-                                   °               
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  11                              QUINTILE:                   ITEM  12
+  Highest-                                           °              Highest-                                                °  
+ 
+      4th-                                     °                        4th-                                               °   
+ 
+      3rd-                                   °                          3rd-                                             °     
+ 
+      2nd-                          °                                   2nd-                                       °           
+ 
+   Lowest-                         °                                 Lowest-                                    °              
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  13                              QUINTILE:                   ITEM  14
+  Highest-                                    °                     Highest-                                                 ° 
+ 
+      4th-                                  °                           4th-                                                 ° 
+ 
+      3rd-                                 °                            3rd-                                                  °
+ 
+      2nd-                               °                              2nd-                                                °  
+ 
+   Lowest-                          °                                Lowest-                                                  °
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  15                              QUINTILE:                   ITEM  16
+  Highest-                                                °         Highest-                                                  °
+ 
+      4th-                                             °                4th-                                                  °
+ 
+      3rd-                                           °                  3rd-                                                  °
+ 
+      2nd-                                           °                  2nd-                                                 ° 
+ 
+   Lowest-                                    °                      Lowest-                                                °  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  27
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  17                              QUINTILE:                   ITEM  18
+  Highest-                                          °               Highest-       °                                           
+ 
+      4th-                                     °                        4th-        °                                          
+ 
+      3rd-                              °                               3rd-       °                                           
+ 
+      2nd-                       °                                      2nd-       °                                           
+ 
+   Lowest-                         °                                 Lowest-       °                                           
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  19                              QUINTILE:                   ITEM  20
+  Highest-                        °                                 Highest-                                     °             
+ 
+      4th-                  °                                           4th-                            °                      
+ 
+      3rd-               °                                              3rd-                      °                            
+ 
+      2nd-                 °                                            2nd-                 °                                 
+ 
+   Lowest-              °                                            Lowest-                   °                               
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  21                              QUINTILE:                   ITEM  22
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                °  
+ 
+      3rd-                                                  °           3rd-                                                °  
+ 
+      2nd-                                                 °            2nd-                                                °  
+ 
+   Lowest-                                                 °         Lowest-                                           °       
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  23                              QUINTILE:                   ITEM  24
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                 °            4th-                                                  °
+ 
+      3rd-                                                 °            3rd-                                                 ° 
+ 
+      2nd-                                                 °            2nd-                                              °    
+ 
+   Lowest-                                               °           Lowest-                                              °    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  28
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  25                              QUINTILE:                   ITEM  26
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                 °            3rd-                                                  °
+ 
+      2nd-                                              °               2nd-                                                 ° 
+ 
+   Lowest-                                               °           Lowest-                                                °  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  27                              QUINTILE:                   ITEM  28
+  Highest-                                     °                    Highest-                                                  °
+ 
+      4th-                                °                             4th-                                               °   
+ 
+      3rd-                          °                                   3rd-                                               °   
+ 
+      2nd-                        °                                     2nd-                                              °    
+ 
+   Lowest-                °                                          Lowest-                                    °              
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  29                              QUINTILE:                   ITEM  30
+  Highest-                                                  °       Highest-                                                 ° 
+ 
+      4th-                                            °                 4th-                                                °  
+ 
+      3rd-                                           °                  3rd-                                           °       
+ 
+      2nd-                                          °                   2nd-                                          °        
+ 
+   Lowest-                                    °                      Lowest-                                       °           
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  31                              QUINTILE:                   ITEM  32
+  Highest-                                              °           Highest-                 °                                 
+ 
+      4th-                                         °                    4th-           °                                       
+ 
+      3rd-                                °                             3rd-         °                                         
+ 
+      2nd-                            °                                 2nd-       °                                           
+ 
+   Lowest-                      °                                    Lowest-      °                                            
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  29
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  33                              QUINTILE:                   ITEM  34
+  Highest-                                             °            Highest-                                     °             
+ 
+      4th-                                          °                   4th-                               °                   
+ 
+      3rd-                                            °                 3rd-                        °                          
+ 
+      2nd-                                           °                  2nd-                    °                              
+ 
+   Lowest-                                    °                      Lowest-                   °                               
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  35                              QUINTILE:                   ITEM  36
+  Highest-                                                 °        Highest-                                           °       
+ 
+      4th-                                               °              4th-                                        °          
+ 
+      3rd-                                                 °            3rd-                                 °                 
+ 
+      2nd-                                            °                 2nd-                                  °                
+ 
+   Lowest-                                             °             Lowest-                                 °                 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  37                              QUINTILE:                   ITEM  38
+  Highest-                        °                                 Highest-                                               °   
+ 
+      4th-                   °                                          4th-                                             °     
+ 
+      3rd-           °                                                  3rd-                                          °        
+ 
+      2nd-             °                                                2nd-                                    °              
+ 
+   Lowest-             °                                             Lowest-                                   °               
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  39                              QUINTILE:                   ITEM  40
+  Highest-                                    °                     Highest-                  °                                
+ 
+      4th-                                °                             4th-                 °                                 
+ 
+      3rd-                        °                                     3rd-           °                                       
+ 
+      2nd-                       °                                      2nd-               °                                   
+ 
+   Lowest-                         °                                 Lowest-            °                                      
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  30
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  41                              QUINTILE:                   ITEM  42
+  Highest-                                                 °        Highest-                                                 ° 
+ 
+      4th-                                                 °            4th-                                                 ° 
+ 
+      3rd-                                                °             3rd-                                                °  
+ 
+      2nd-                                              °               2nd-                                              °    
+ 
+   Lowest-                                             °             Lowest-                                             °     
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  43                              QUINTILE:                   ITEM  44
+  Highest-                                                °         Highest-                                °                  
+ 
+      4th-                                                °             4th-                    °                              
+ 
+      3rd-                                           °                  3rd-                  °                                
+ 
+      2nd-                                       °                      2nd-              °                                    
+ 
+   Lowest-                                       °                   Lowest-                °                                  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  45                              QUINTILE:                   ITEM  46
+  Highest-                              °                           Highest-                                              °    
+ 
+      4th-                  °                                           4th-                                         °         
+ 
+      3rd-               °                                              3rd-                                      °            
+ 
+      2nd-           °                                                  2nd-                                     °             
+ 
+   Lowest-                °                                          Lowest-                                  °                
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  47                              QUINTILE:                   ITEM  48
+  Highest-   °                                                      Highest-                            °                      
+ 
+      4th-  °                                                           4th-                      °                            
+ 
+      3rd- °                                                            3rd-                    °                              
+ 
+      2nd- °                                                            2nd-               °                                   
+ 
+   Lowest- °                                                         Lowest-                 °                                 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  31
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  49                              QUINTILE:                   ITEM  50
+  Highest-                             °                            Highest-           °                                       
+ 
+      4th-                      °                                       4th-        °                                          
+ 
+      3rd-                   °                                          3rd-      °                                            
+ 
+      2nd-                      °                                       2nd-         °                                         
+ 
+   Lowest-                °                                          Lowest-      °                                            
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  51                              QUINTILE:                   ITEM  52
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                            °                 4th-                                                 ° 
+ 
+      3rd-                                         °                    3rd-                                                 ° 
+ 
+      2nd-                                     °                        2nd-                                                °  
+ 
+   Lowest-                           °                               Lowest-                                       °           
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  53                              QUINTILE:                   ITEM  54
+  Highest-                                              °           Highest-                              °                    
+ 
+      4th-                                       °                      4th-                          °                        
+ 
+      3rd-                                          °                   3rd-                        °                          
+ 
+      2nd-                                       °                      2nd-                      °                            
+ 
+   Lowest-                                      °                    Lowest-              °                                    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  55                              QUINTILE:                   ITEM  56
+  Highest-                                                 °        Highest-                                                  °
+ 
+      4th-                                                °             4th-                                                  °
+ 
+      3rd-                                                °             3rd-                                                °  
+ 
+      2nd-                                               °              2nd-                                                 ° 
+ 
+   Lowest-                                           °               Lowest-                                                °  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  32
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  57                              QUINTILE:                   ITEM  58
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                 ° 
+ 
+      3rd-                                                °             3rd-                                               °   
+ 
+      2nd-                                              °               2nd-                                               °   
+ 
+   Lowest-                                             °             Lowest-                                          °        
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  59                              QUINTILE:                   ITEM  60
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                 °            4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                  °
+ 
+      2nd-                                               °              2nd-                                                 ° 
+ 
+   Lowest-                                              °            Lowest-                                              °    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  61                              QUINTILE:                   ITEM  62
+  Highest-                                                 °        Highest-                                                  °
+ 
+      4th-                                               °              4th-                                                 ° 
+ 
+      3rd-                                              °               3rd-                                                  °
+ 
+      2nd-                                           °                  2nd-                                                  °
+ 
+   Lowest-                                  °                        Lowest-                                                 ° 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  63                              QUINTILE:                   ITEM  64
+  Highest-                                                  °       Highest-                                                 ° 
+ 
+      4th-                                                 °            4th-                                                 ° 
+ 
+      3rd-                                                °             3rd-                                                °  
+ 
+      2nd-                                                °             2nd-                                              °    
+ 
+   Lowest-                                       °                   Lowest-                                         °         
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  33
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  65                              QUINTILE:                   ITEM  66
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                               °              4th-                                                  °
+ 
+      3rd-                                            °                 3rd-                                                  °
+ 
+      2nd-                                            °                 2nd-                                                  °
+ 
+   Lowest-                         °                                 Lowest-                                               °   
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  67                              QUINTILE:                   ITEM  68
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                 ° 
+ 
+      2nd-                                                  °           2nd-                                                  °
+ 
+   Lowest-                                                 °         Lowest-                                                °  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  69                              QUINTILE:                   ITEM  70
+  Highest-                                              °           Highest-                                           °       
+ 
+      4th-                                        °                     4th-                                     °             
+ 
+      3rd-                                          °                   3rd-                                    °              
+ 
+      2nd-                                  °                           2nd-                                 °                 
+ 
+   Lowest-                              °                            Lowest-                        °                          
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  71                              QUINTILE:                   ITEM  72
+  Highest-                                                °         Highest-                                                 ° 
+ 
+      4th-                                            °                 4th-                                                 ° 
+ 
+      3rd-                                         °                    3rd-                                                °  
+ 
+      2nd-                                       °                      2nd-                                               °   
+ 
+   Lowest-                            °                              Lowest-                                            °      
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  34
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  73                              QUINTILE:                   ITEM  74
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                 °            4th-                                                °  
+ 
+      3rd-                                               °              3rd-                                                 ° 
+ 
+      2nd-                                                °             2nd-                                               °   
+ 
+   Lowest-                                      °                    Lowest-                                              °    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  75                              QUINTILE:                   ITEM  76
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                 ° 
+ 
+      3rd-                                                 °            3rd-                                                °  
+ 
+      2nd-                                               °              2nd-                                               °   
+ 
+   Lowest-                                          °                Lowest-                                              °    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  77                              QUINTILE:                   ITEM  78
+  Highest-                                                  °       Highest-                                                 ° 
+ 
+      4th-                                                  °           4th-                                                 ° 
+ 
+      3rd-                                                 °            3rd-                                                  °
+ 
+      2nd-                                               °              2nd-                                              °    
+ 
+   Lowest-                                              °            Lowest-                                           °       
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  79                              QUINTILE:                   ITEM  80
+  Highest-                                                °         Highest-                                                 ° 
+ 
+      4th-                                             °                4th-                                                  °
+ 
+      3rd-                                          °                   3rd-                                                °  
+ 
+      2nd-                                         °                    2nd-                                            °      
+ 
+   Lowest-                             °                             Lowest-                                           °       
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  35
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  81                              QUINTILE:                   ITEM  82
+  Highest-                                                  °       Highest-                                                 ° 
+ 
+      4th-                                                °             4th-                                                  °
+ 
+      3rd-                                                °             3rd-                                                 ° 
+ 
+      2nd-                                                °             2nd-                                               °   
+ 
+   Lowest-                                           °               Lowest-                                            °      
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  83                              QUINTILE:                   ITEM  84
+  Highest-                                     °                    Highest-                                                  °
+ 
+      4th-                               °                              4th-                                                  °
+ 
+      3rd-                            °                                 3rd-                                                 ° 
+ 
+      2nd-                       °                                      2nd-                                               °   
+ 
+   Lowest-                °                                          Lowest-                                             °     
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  85                              QUINTILE:                   ITEM  86
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                 °            4th-                                                  °
+ 
+      3rd-                                                °             3rd-                                                  °
+ 
+      2nd-                                              °               2nd-                                                 ° 
+ 
+   Lowest-                                        °                  Lowest-                                               °   
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  87                              QUINTILE:                   ITEM  88
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                  °
+ 
+      2nd-                                                 °            2nd-                                                 ° 
+ 
+   Lowest-                                               °           Lowest-                                                 ° 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  36
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  89                              QUINTILE:                   ITEM  90
+  Highest-                                                  °       Highest-                                                °  
+ 
+      4th-                                                  °           4th-                                               °   
+ 
+      3rd-                                                 °            3rd-                                          °        
+ 
+      2nd-                                                 °            2nd-                                     °             
+ 
+   Lowest-                                                 °         Lowest-                                °                  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  91                              QUINTILE:                   ITEM  92
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                 °            3rd-                                                  °
+ 
+      2nd-                                                 °            2nd-                                                 ° 
+ 
+   Lowest-                                          °                Lowest-                                              °    
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  93                              QUINTILE:                   ITEM  94
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                  °
+ 
+      2nd-                                                  °           2nd-                                                  °
+ 
+   Lowest-                                              °            Lowest-                                                 ° 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  95                              QUINTILE:                   ITEM  96
+  Highest-                                                  °       Highest-                                         °         
+ 
+      4th-                                                  °           4th-                                     °             
+ 
+      3rd-                                                 °            3rd-                                           °       
+ 
+      2nd-                                               °              2nd-                                       °           
+ 
+   Lowest-                                            °              Lowest-                             °                     
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+                                   PLOT OF TEST SCORE GROUPS (QUINTILES) BY ITEM DIFFICULTY                            Page  37
+
+ The sizes of the quintile groups from 'Highest' to' Lowest' are:       102       100       109        99        99
+
+
+ QUINTILE:                   ITEM  97                              QUINTILE:                   ITEM  98
+  Highest-                                                  °       Highest-                                                  °
+ 
+      4th-                                                  °           4th-                                                  °
+ 
+      3rd-                                                  °           3rd-                                                  °
+ 
+      2nd-                                                 °            2nd-                                                  °
+ 
+   Lowest-                                             °             Lowest-                                                 ° 
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+
+
+ QUINTILE:                   ITEM  99                              QUINTILE:                   ITEM 100
+  Highest-                                                  °       Highest-                                               °   
+ 
+      4th-                                                 °            4th-                                            °      
+ 
+      3rd-                                                  °           3rd-                                            °      
+ 
+      2nd-                                              °               2nd-                                   °               
+ 
+   Lowest-                                        °                  Lowest-                                °                  
+          |----|----|----|----|----|----|----|----|----|----|               |----|----|----|----|----|----|----|----|----|----|
+    DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0         DIFF=.0   .1   .2   .3   .4   .5   .6   .7   .8   .9  1.0
+    ITEMS    1 TO  100                                                                                                 Page  38
+                                               DISCRIMINATION X DIFFICULTY CHART
+
+    **************************************************************************************************************************
+ 1.0*                                                                                                                        *
+    *                                                                                                                        *
+    *                                                                                                                        *
+    *                                                                                                                        *
+  .9*                                                                                                                   91 92*
+    *                                                                                                                        *
+    *                                                                                                                        *
+    *                                                                                                                        *
+  .8*                                                                                                                      60*
+B   *                                                                                                                 7    66*
+I   *                                                                                                    65                93*
+S   *                                                                                                             10         *
+E .7*                                                                                                                        *
+R   *                                                                                                                52      *
+I   *                                                                                                              6 99    98*
+A   *                                                                                                                73      *
+L .6*                                                                                                                        *
+    *                                                                                                                63 75 86*
+    *                                                                                              51    79 61          95   *
+C   *                                                                                                                85    94*
+O .5*                                                                                                 71 90  9  5          97*
+R   *                                                                               31                            28 78 59   *
+R   *                                                                                                       12       81 82   *
+E   *                                                                                                100             80    87*
+L .4*                                                                                  70       69          29       55 72   *
+A   *                                                                27             11                               22    56*
+T   *                                                                83                                                 57 68*
+I   *                                                             34  2          17                   38    43 30    42 74   *
+O .3*                      32                         44    54 20                                                    41 76 88*
+N   *                                                                                           96 46                35      *
+    *                                           45    48                                                                25 21*
+    *    47                               37             49                                              33                  *
+  .2*                                                                            13                                          *
+    *                                        19                         39                   36                            62*
+    *           1                                                                                     53                   89*
+    *                                  40                                                                                    *
+  .1*                   50                                                                                                   *
+    *                                                                                                                        *
+    *                                                                                                                        *
+    *                18                                                                                                      *
+  .0**************************************************************************************************************************
+    .0          .1          .2          .3          .4          .5          .6          .7          .8          .9         1.0
+
+                                                        D I F F I C U L T Y
+
+ITEMS WITH BISERIAL CORRELATION ZERO OR NEGATIVE:
+    4  14
+
+ITEMS WITH OVERLAID POINTS (1ST # OF PAIR IS OBSCURED BY 2ND):
+  84- 95,  67- 97,   8- 59,  58- 64,   3- 77,  64- 81,  77- 82,  15- 29,  26- 56,  16- 68,
+  24- 74,  23- 88,
