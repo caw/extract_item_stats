@@ -2,6 +2,10 @@ import os, sys, re, collections, csv, Tkinter, tkFileDialog, logging, time
 from string import ascii_uppercase as ucase
 
 class ItemAnalysis:
+    """
+    Class which holds the required data for each item, and produces a string representation of
+    the item suitable for writing to a CSV file
+    """
     def __init__(self, n):
         self.number = n
 
