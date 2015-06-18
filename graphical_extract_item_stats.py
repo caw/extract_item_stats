@@ -1,4 +1,4 @@
-import os, sys, re, collections, csv, Tkinter, tkFileDialog
+import os, sys, re, collections, csv, Tkinter, tkFileDialog, logging, time
 from string import ascii_uppercase as ucase
 
 class ItemAnalysis:
@@ -82,8 +82,10 @@ def analyse_and_write_file(file):
                 data = (item.number, item.number_answering, item.correct_key_only, item.DIF, item.RPB, item.CRPB, item.RBIS, item.CRBIS, item.IRI) + tuple(item.key_dict.values())
                 data += (item.last_key,)
                 itemwriter.writerow(data)
+
+        logging.info(file + " : successfully analysed")
     except Exception as e:
-        print sys.exc_info()
+        logging.exception(file + " : error in processing")
 
 # select the directory
 root = Tkinter.Tk()
@@ -94,7 +96,13 @@ print selected
 # get the files in the selected directory
 path = selected
 print path
+
+# create logging file name with a datetime stamp and the logging file
+
+logging.basicConfig(filename = "extract.log", format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level = logging.INFO)
+
 for file in os.listdir(path):
     current = os.path.join(path, file)
-    if os.path.isfile(current):
+    if os.path.isfile(current) and current.split(".")[1] == 'txt':
+        logging.info(current + " : commencing analysis.")
         analyse_and_write_file(current)
