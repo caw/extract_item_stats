@@ -95,14 +95,11 @@ def analyse_and_write_file(file):
 root = Tkinter.Tk()
 root.withdraw()
 selected = tkFileDialog.askdirectory(initialdir = ".")
-print selected
 
 # get the files in the selected directory
 path = selected
-print path
 
 # create logging file name with a datetime stamp and the logging file
-
 logging.basicConfig(filename = "extract.log", format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level = logging.INFO)
 
 for file in os.listdir(path):
