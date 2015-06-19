@@ -29,6 +29,8 @@ def analyse_and_write_file(file):
             read_data = f.read()
             read_data = iter(read_data.split("\n"))
 
+        items_analysed = 0
+
         # process the file
         for line in read_data:
             #  "ITEM   8: DIF=0.969, RPB=  0.185, CRPB=  0.157 (95% CON=  0.071, 0.240)"
@@ -73,23 +75,30 @@ def analyse_and_write_file(file):
                 for key, proportion in zip(used_keys, key_proportions):
                     item.key_dict[key] = proportion
 
+                items_analysed +=1
                 items.append(item)
 
-        # write to csv file - rename with .csv extension
-        name, ext = os.path.splitext(file)
-        outfile_name = name + ".cvs"
 
-        with open(outfile_name, 'w') as csvfile:
-            itemwriter = csv.writer(csvfile, dialect = 'excel')
-            itemwriter.writerow(['ITEM', 'Number Answering', 'Correct Answer', 'DIF', 'RPB', 'CRPB', 'RBIS', 'CRBIS', 'ISI'] + list(ucase) + ['LAST KEY IN DATA'])
-            for item in items:
-                data = (item.number, item.number_answering, item.correct_key_only, item.DIF, item.RPB, item.CRPB, item.RBIS, item.CRBIS, item.IRI) + tuple(item.key_dict.values())
-                data += (item.last_key,)
-                itemwriter.writerow(data)
+        if items_analysed != 0:
+            # write to csv file - rename with .csv extension
+            name, ext = os.path.splitext(file)
+            outfile_name = name + ".cvs"
 
-        logging.info(file + " : successfully analysed")
+            with open(outfile_name, 'w') as csvfile:
+                itemwriter = csv.writer(csvfile, dialect = 'excel')
+                itemwriter.writerow(['ITEM', 'Number Answering', 'Correct Answer', 'DIF', 'RPB', 'CRPB', 'RBIS', 'CRBIS', 'ISI'] + list(ucase) + ['LAST KEY IN DATA'])
+                for item in items:
+                    data = (item.number, item.number_answering, item.correct_key_only, item.DIF, item.RPB, item.CRPB, item.RBIS, item.CRBIS, item.IRI) + tuple(item.key_dict.values())
+                    data += (item.last_key,)
+                    itemwriter.writerow(data)
+
+            logging.info(file + " : successfully analysed. " + str(item.number) + " questions analysed.")
+        else:
+            logging.info(file + " : analysed, but no items found.")
+
+
     except Exception as e:
-        logging.exception(file + " : error in processing")
+        logging.exception(file + " : error in processing.")
 
 # select the directory
 root = Tkinter.Tk()
@@ -102,8 +111,12 @@ path = selected
 # create logging file name with a datetime stamp and the logging file
 logging.basicConfig(filename = "extract.log", format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level = logging.INFO)
 
+files_analysed = 0
 for file in os.listdir(path):
     current = os.path.join(path, file)
     if os.path.isfile(current) and current.split(".")[1] == 'txt':
+        files_analysed += 1
         logging.info(current + " : commencing analysis.")
         analyse_and_write_file(current)
+
+logging.info(str(files_analysed) + " files analysed.")
