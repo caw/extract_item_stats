@@ -97,7 +97,7 @@ def analyse_and_write_file(file):
         if items_analysed != 0:
             # write to csv file - rename with .csv extension
             name, ext = os.path.splitext(file)
-            outfile_name = name + ".cvs"
+            outfile_name = name + ".csv"
 
             with open(outfile_name, 'w') as csvfile:
                 itemwriter = csv.writer(csvfile, dialect = 'excel')
