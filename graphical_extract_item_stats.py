@@ -99,7 +99,7 @@ def analyse_and_write_file(file):
             name, ext = os.path.splitext(file)
             outfile_name = name + ".csv"
 
-            with open(outfile_name, 'w') as csvfile:
+            with open(outfile_name, 'wb') as csvfile:
                 itemwriter = csv.writer(csvfile, dialect = 'excel')
                 itemwriter.writerow(['ITEM', 'Number Answering', 'Correct Answer', 'DIF', 'RPB', 'CRPB', 'RBIS', 'CRBIS', 'IRI', 'DPC'] + list(ucase) + ['LAST KEY IN DATA'])
                 for item in items:
